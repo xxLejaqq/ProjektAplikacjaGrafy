@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+    <!-- Klucze dla wierzchołków -->
+    <key id="x" for="node" attr.name="x" attr.type="float" />
+    <key id="y" for="node" attr.name="y" attr.type="float" />
+    <key id="label" for="node" attr.name="label" attr.type="string" />
+    
+    <!-- Klucze dla krawędzi -->
+    <key id="label" for="edge" attr.name="label" attr.type="string" />
+
+    <graph id="G" edgedefault="undirected">
+        <!-- Wierzchołki -->
+        <node id="n0"><data key="x">100.0</data><data key="y">100.0</data><data key="label">A</data></node>
+        <node id="n1"><data key="x">200.0</data><data key="y">100.0</data><data key="label">B</data></node>
+        <node id="n2"><data key="x">300.0</data><data key="y">100.0</data><data key="label">C</data></node>
+        <node id="n3"><data key="x">400.0</data><data key="y">100.0</data><data key="label">D</data></node>
+        <node id="n4"><data key="x">500.0</data><data key="y">100.0</data><data key="label">E</data></node>
+        <node id="n5"><data key="x">600.0</data><data key="y">100.0</data><data key="label">F</data></node>
+        <node id="n6"><data key="x">700.0</data><data key="y">100.0</data><data key="label">G</data></node>
+        <node id="n7"><data key="x">100.0</data><data key="y">200.0</data><data key="label">H</data></node>
+        <node id="n8"><data key="x">200.0</data><data key="y">200.0</data><data key="label">I</data></node>
+        <node id="n9"><data key="x">300.0</data><data key="y">200.0</data><data key="label">J</data></node>
+        <node id="n10"><data key="x">400.0</data><data key="y">200.0</data><data key="label">K</data></node>
+        <node id="n11"><data key="x">500.0</data><data key="y">200.0</data><data key="label">L</data></node>
+        <node id="n12"><data key="x">600.0</data><data key="y">200.0</data><data key="label">M</data></node>
+        <node id="n13"><data key="x">700.0</data><data key="y">200.0</data><data key="label">N</data></node>
+        <node id="n14"><data key="x">100.0</data><data key="y">300.0</data><data key="label">O</data></node>
+        <node id="n15"><data key="x">200.0</data><data key="y">300.0</data><data key="label">P</data></node>
+        <node id="n16"><data key="x">300.0</data><data key="y">300.0</data><data key="label">Q</data></node>
+        <node id="n17"><data key="x">400.0</data><data key="y">300.0</data><data key="label">R</data></node>
+        <node id="n18"><data key="x">500.0</data><data key="y">300.0</data><data key="label">S</data></node>
+        <node id="n19"><data key="x">600.0</data><data key="y">300.0</data><data key="label">T</data></node>
+        <node id="n20"><data key="x">700.0</data><data key="y">300.0</data><data key="label">U</data></node>
+        <node id="n21"><data key="x">100.0</data><data key="y">400.0</data><data key="label">V</data></node>
+        <node id="n22"><data key="x">200.0</data><data key="y">400.0</data><data key="label">W</data></node>
+        <node id="n23"><data key="x">300.0</data><data key="y">400.0</data><data key="label">X</data></node>
+        <node id="n24"><data key="x">400.0</data><data key="y">400.0</data><data key="label">Y</data></node>
+        <node id="n25"><data key="x">500.0</data><data key="y">400.0</data><data key="label">Z</data></node>
+        <node id="n26"><data key="x">600.0</data><data key="y">400.0</data><data key="label">AA</data></node>
+        <node id="n27"><data key="x">700.0</data><data key="y">400.0</data><data key="label">BB</data></node>
+        <node id="n28"><data key="x">100.0</data><data key="y">500.0</data><data key="label">CC</data></node>
+        <node id="n29"><data key="x">200.0</data><data key="y">500.0</data><data key="label">DD</data></node>
+        <node id="n30"><data key="x">300.0</data><data key="y">500.0</data><data key="label">EE</data></node>
+        <node id="n31"><data key="x">400.0</data><data key="y">500.0</data><data key="label">FF</data></node>
+        <node id="n32"><data key="x">500.0</data><data key="y">500.0</data><data key="label">GG</data></node>
+        <node id="n33"><data key="x">600.0</data><data key="y">500.0</data><data key="label">HH</data></node>
+        <node id="n34"><data key="x">700.0</data><data key="y">500.0</data><data key="label">II</data></node>
+
+        <!-- Krawędzie -->
+        <edge id="e0" source="n0" target="n1"><data key="label">Edge 1</data></edge>
+        <edge id="e1" source="n1" target="n2"><data key="label">Edge 2</data></edge>
+        <edge id="e2" source="n2" target="n3"><data key="label">Edge 3</data></edge>
+        <edge id="e3" source="n3" target="n4"><data key="label">Edge 4</data></edge>
+        <edge id="e4" source="n4" target="n5"><data key="label">Edge 5</data></edge>
+        <edge id="e5" source="n5" target="n6"><data key="label">Edge 6</data></edge>
+        <edge id="e6" source="n6" target="n7"><data key="label">Edge 7</data></edge>
+        <edge id="e7" source="n7" target="n8"><data key="label">Edge 8</data></edge>
+        <edge id="e8" source="n8" target="n9"><data key="label">Edge 9</data></edge>
+        <edge id="e9" source="n9" target="n10"><data key="label">Edge 10</data></edge>
+        <edge id="e10" source="n10" target="n11"><data key="label">Edge 11</data></edge>
+        <edge id="e11" source="n11" target="n12"><data key="label">Edge 12</data></edge>
+        <edge id="e12" source="n12" target="n13"><data key="label">Edge 13</data></edge>
+        <edge id="e13" source="n13" target="n14"><data key="label">Edge 14</data></edge>
+        <edge id="e14" source="n14" target="n15"><data key="label">Edge 15</data></edge>
+        <edge id="e15" source="n15" target="n16"><data key="label">Edge 16</data></edge>
+        <edge id="e16" source="n16" target="n17"><data key="label">Edge 17</data></edge>
+        <edge id="e17" source="n17" target="n18"><data key="label">Edge 18</data></edge>
+        <edge id="e18" source="n18" target="n19"><data key="label">Edge 19</data></edge>
+        <edge id="e19" source="n19" target="n20"><data key="label">Edge 20</data></edge>
+        <edge id="e20" source="n20" target="n21"><data key="label">Edge 21</data></edge>
+        <edge id="e21" source="n21" target="n22"><data key="label">Edge 22</data></edge>
+        <edge id="e22" source="n22" target="n23"><data key="label">Edge 23</data></edge>
+        <edge id="e23" source="n23" target="n24"><data key="label">Edge 24</data></edge>
+        <edge id="e24" source="n24" target="n25"><data key="label">Edge 25</data></edge>
+        <edge id="e25" source="n25" target="n26"><data key="label">Edge 26</data></edge>
+        <edge id="e26" source="n26" target="n27"><data key="label">Edge 27</data></edge>
+        <edge id="e27" source="n27" target="n28"><data key="label">Edge 28</data></edge>
+        <edge id="e28" source="n28" target="n29"><data key="label">Edge 29</data></edge>
+        <edge id="e29" source="n29" target="n30"><data key="label">Edge 30</data></edge>
+        <edge id="e30" source="n30" target="n31"><data key="label">Edge 31</data></edge>
+        <edge id="e31" source="n31" target="n32"><data key="label">Edge 32</data></edge>
+        <edge id="e32" source="n32" target="n33"><data key="label">Edge 33</data></edge>
+        <edge id="e33" source="n33" target="n34"><data key="label">Edge 34</data></edge>
+        <edge id="e34" source="n0" target="n2"><data key="label">Edge 35</data></edge>
+        <edge id="e35" source="n1" target="n3"><data key="label">Edge 36</data></edge>
+        <edge id="e36" source="n2" target="n4"><data key="label">Edge 37</data></edge>
+        <edge id="e37" source="n3" target="n5"><data key="label">Edge 38</data></edge>
+        <edge id="e38" source="n4" target="n6"><data key="label">Edge 39</data></edge>
+        <edge id="e39" source="n5" target="n7"><data key="label">Edge 40</data></edge>
+        <edge id="e40" source="n6" target="n8"><data key="label">Edge 41</data></edge>
+        <edge id="e41" source="n7" target="n9"><data key="label">Edge 42</data></edge>
+        <edge id="e42" source="n8" target="n10"><data key="label">Edge 43</data></edge>
+        <edge id="e43" source="n9" target="n11"><data key="label">Edge 44</data></edge>
+        <edge id="e44" source="n10" target="n12"><data key="label">Edge 45</data></edge>
+        <edge id="e45" source="n11" target="n13"><data key="label">Edge 46</data></edge>
+        <edge id="e46" source="n12" target="n14"><data key="label">Edge 47</data></edge>
+        <edge id="e47" source="n13" target="n15"><data key="label">Edge 48</data></edge>
+        <edge id="e48" source="n14" target="n16"><data key="label">Edge 49</data></edge>
+        <edge id="e49" source="n15" target="n17"><data key="label">Edge 50</data></edge>
+        <edge id="e50" source="n16" target="n18"><data key="label">Edge 51</data></edge>
+        <edge id="e51" source="n17" target="n19"><data key="label">Edge 52</data></edge>
+        <edge id="e52" source="n18" target="n20"><data key="label">Edge 53</data></edge>
+        <edge id="e53" source="n19" target="n21"><data key="label">Edge 54</data></edge>
+        <edge id="e54" source="n20" target="n22"><data key="label">Edge 55</data></edge>
+        <edge id="e55" source="n21" target="n23"><data key="label">Edge 56</data></edge>
+        <edge id="e56" source="n22" target="n24"><data key="label">Edge 57</data></edge>
+        <edge id="e57" source="n23" target="n25"><data key="label">Edge 58</data></edge>
+        <edge id="e58" source="n24" target="n26"><data key="label">Edge 59</data></edge>
+        <edge id="e59" source="n25" target="n27"><data key="label">Edge 60</data></edge>
+        <edge id="e60" source="n26" target="n28"><data key="label">Edge 61</data></edge>
+        <edge id="e61" source="n27" target="n29"><data key="label">Edge 62</data></edge>
+        <edge id="e62" source="n28" target="n30"><data key="label">Edge 63</data></edge>
+        <edge id="e63" source="n29" target="n31"><data key="label">Edge 64</data></edge>
+        <edge id="e64" source="n30" target="n32"><data key="label">Edge 65</data></edge>
+        <edge id="e65" source="n31" target="n33"><data key="label">Edge 66</data></edge>
+        <edge id="e66" source="n32" target="n34"><data key="label">Edge 67</data></edge>
+        <edge id="e67" source="n33" target="n1"><data key="label">Edge 68</data></edge>
+        <edge id="e68" source="n34" target="n2"><data key="label">Edge 69</data></edge>
+        <edge id="e69" source="n0" target="n3"><data key="label">Edge 70</data></edge>
+        <edge id="e70" source="n1" target="n4"><data key="label">Edge 71</data></edge>
+        <edge id="e71" source="n2" target="n5"><data key="label">Edge 72</data></edge>
+        <edge id="e72" source="n3" target="n6"><data key="label">Edge 73</data></edge>
+        <edge id="e73" source="n4" target="n7"><data key="label">Edge 74</data></edge>
+        <edge id="e74" source="n5" target="n8"><data key="label">Edge 75</data></edge>
+        <edge id="e75" source="n6" target="n9"><data key="label">Edge 76</data></edge>
+        <edge id="e76" source="n7" target="n10"><data key="label">Edge 77</data></edge>
+        <edge id="e77" source="n8" target="n11"><data key="label">Edge 78</data></edge>
+        <edge id="e78" source="n9" target="n12"><data key="label">Edge 79</data></edge>
+        <edge id="e79" source="n10" target="n13"><data key="label">Edge 80</data></edge>
+        <edge id="e80" source="n11" target="n14"><data key="label">Edge 81</data></edge>
+        <edge id="e81" source="n12" target="n15"><data key="label">Edge 82</data></edge>
+        <edge id="e82" source="n13" target="n16"><data key="label">Edge 83</data></edge>
+        <edge id="e83" source="n14" target="n17"><data key="label">Edge 84</data></edge>
+        <edge id="e84" source="n15" target="n18"><data key="label">Edge 85</data></edge>
+        <edge id="e85" source="n16" target="n19"><data key="label">Edge 86</data></edge>
+        <edge id="e86" source="n17" target="n20"><data key="label">Edge 87</data></edge>
+        <edge id="e87" source="n18" target="n21"><data key="label">Edge 88</data></edge>
+        <edge id="e88" source="n19" target="n22"><data key="label">Edge 89</data></edge>
+    </graph>
+</graphml>

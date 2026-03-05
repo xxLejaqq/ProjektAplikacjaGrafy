@@ -1,0 +1,3400 @@
+<?xml version="1.0" encoding="UTF-8"?><graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+<key attr.name="label" attr.type="string" for="node" id="label"/>
+<key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+<key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+<key attr.name="r" attr.type="int" for="node" id="r"/>
+<key attr.name="g" attr.type="int" for="node" id="g"/>
+<key attr.name="b" attr.type="int" for="node" id="b"/>
+<key attr.name="x" attr.type="float" for="node" id="x"/>
+<key attr.name="y" attr.type="float" for="node" id="y"/>
+<key attr.name="size" attr.type="float" for="node" id="size"/>
+<graph edgedefault="directed">
+<node id="BE">
+<data key="label">BE</data>
+<data key="size">10.0</data>
+<data key="r">192</data>
+<data key="g">192</data>
+<data key="b">192</data>
+<data key="x">26.089071</data>
+<data key="y">-74.185814</data>
+</node>
+<node id="BG">
+<data key="label">BG</data>
+<data key="size">10.0</data>
+<data key="r">192</data>
+<data key="g">192</data>
+<data key="b">192</data>
+<data key="x">181.12096</data>
+<data key="y">-310.03812</data>
+</node>
+<node id="CZ">
+<data key="label">CZ</data>
+<data key="size">10.0</data>
+<data key="r">192</data>
+<data key="g">192</data>
+<data key="b">192</data>
+<data key="x">15.121319</data>
+<data key="y">-323.8256</data>
+</node>
+<node id="DK">
+<data key="label">DK</data>
+<data key="size">10.0</data>
+<data key="r">192</data>
+<data key="g">192</data>
+<data key="b">192</data>
+<data key="x">-61.890198</data>
+<data key="y">193.51686</data>
+</node>
+<node id="DE">
+<data key="label">DE</data>
+<data key="size">10.0</data>
+<data key="r">192</data>
+<data key="g">192</data>
+<data key="b">192</data>
+<data key="x">146.02727</data>
+<data key="y">-281.59683</data>
+</node>
+<node id="EE">
+<data key="label">EE</data>
+<data key="size">10.0</data>
+<data key="r">192</data>
+<data key="g">192</data>
+<data key="b">192</data>
+<data key="x">49.334232</data>
+<data key="y">-158.23436</data>
+</node>
+<node id="IE">
+<data key="label">IE</data>
+<data key="size">10.0</data>
+<data key="r">192</data>
+<data key="g">192</data>
+<data key="b">192</data>
+<data key="x">-36.85055</data>
+<data key="y">-213.81221</data>
+</node>
+<node id="EL">
+<data key="label">EL</data>
+<data key="size">10.0</data>
+<data key="r">192</data>
+<data key="g">192</data>
+<data key="b">192</data>
+<data key="x">141.12593</data>
+<data key="y">-101.04457</data>
+</node>
+<node id="ES">
+<data key="label">ES</data>
+<data key="size">10.0</data>
+<data key="r">192</data>
+<data key="g">192</data>
+<data key="b">192</data>
+<data key="x">-228.62718</data>
+<data key="y">-37.021854</data>
+</node>
+<node id="FR">
+<data key="label">FR</data>
+<data key="size">10.0</data>
+<data key="r">192</data>
+<data key="g">192</data>
+<data key="b">192</data>
+<data key="x">-12.1888485</data>
+<data key="y">254.59988</data>
+</node>
+<node id="HR">
+<data key="label">HR</data>
+<data key="size">10.0</data>
+<data key="r">192</data>
+<data key="g">192</data>
+<data key="b">192</data>
+<data key="x">-18.041847</data>
+<data key="y">109.10451</data>
+</node>
+<node id="IT">
+<data key="label">IT</data>
+<data key="size">10.0</data>
+<data key="r">192</data>
+<data key="g">192</data>
+<data key="b">192</data>
+<data key="x">311.76462</data>
+<data key="y">-151.6817</data>
+</node>
+<node id="CY">
+<data key="label">CY</data>
+<data key="size">10.0</data>
+<data key="r">192</data>
+<data key="g">192</data>
+<data key="b">192</data>
+<data key="x">140.21657</data>
+<data key="y">-204.35281</data>
+</node>
+<node id="LV">
+<data key="label">LV</data>
+<data key="size">10.0</data>
+<data key="r">192</data>
+<data key="g">192</data>
+<data key="b">192</data>
+<data key="x">277.32693</data>
+<data key="y">-58.87755</data>
+</node>
+<node id="LT">
+<data key="label">LT</data>
+<data key="size">10.0</data>
+<data key="r">192</data>
+<data key="g">192</data>
+<data key="b">192</data>
+<data key="x">-63.805984</data>
+<data key="y">59.971985</data>
+</node>
+<node id="LU">
+<data key="label">LU</data>
+<data key="size">10.0</data>
+<data key="r">192</data>
+<data key="g">192</data>
+<data key="b">192</data>
+<data key="x">124.236946</data>
+<data key="y">293.71933</data>
+</node>
+<node id="HU">
+<data key="label">HU</data>
+<data key="size">10.0</data>
+<data key="r">192</data>
+<data key="g">192</data>
+<data key="b">192</data>
+<data key="x">212.71834</data>
+<data key="y">232.12299</data>
+</node>
+<node id="MT">
+<data key="label">MT</data>
+<data key="size">10.0</data>
+<data key="r">192</data>
+<data key="g">192</data>
+<data key="b">192</data>
+<data key="x">335.35114</data>
+<data key="y">-79.887184</data>
+</node>
+<node id="NL">
+<data key="label">NL</data>
+<data key="size">10.0</data>
+<data key="r">192</data>
+<data key="g">192</data>
+<data key="b">192</data>
+<data key="x">345.21954</data>
+<data key="y">237.4159</data>
+</node>
+<node id="AT">
+<data key="label">AT</data>
+<data key="size">10.0</data>
+<data key="r">192</data>
+<data key="g">192</data>
+<data key="b">192</data>
+<data key="x">-120.58126</data>
+<data key="y">-335.62262</data>
+</node>
+<node id="PL">
+<data key="label">PL</data>
+<data key="size">10.0</data>
+<data key="r">192</data>
+<data key="g">192</data>
+<data key="b">192</data>
+<data key="x">-125.33165</data>
+<data key="y">258.60324</data>
+</node>
+<node id="PT">
+<data key="label">PT</data>
+<data key="size">10.0</data>
+<data key="r">192</data>
+<data key="g">192</data>
+<data key="b">192</data>
+<data key="x">-287.44815</data>
+<data key="y">299.9413</data>
+</node>
+<node id="RO">
+<data key="label">RO</data>
+<data key="size">10.0</data>
+<data key="r">192</data>
+<data key="g">192</data>
+<data key="b">192</data>
+<data key="x">-171.21426</data>
+<data key="y">-159.1153</data>
+</node>
+<node id="SK">
+<data key="label">SK</data>
+<data key="size">10.0</data>
+<data key="r">192</data>
+<data key="g">192</data>
+<data key="b">192</data>
+<data key="x">-138.22359</data>
+<data key="y">-25.942692</data>
+</node>
+<node id="FI">
+<data key="label">FI</data>
+<data key="size">10.0</data>
+<data key="r">192</data>
+<data key="g">192</data>
+<data key="b">192</data>
+<data key="x">-132.6393</data>
+<data key="y">344.813</data>
+</node>
+<node id="SE">
+<data key="label">SE</data>
+<data key="size">10.0</data>
+<data key="r">192</data>
+<data key="g">192</data>
+<data key="b">192</data>
+<data key="x">-49.329433</data>
+<data key="y">-284.64728</data>
+</node>
+<node id="IS">
+<data key="label">IS</data>
+<data key="size">10.0</data>
+<data key="r">192</data>
+<data key="g">192</data>
+<data key="b">192</data>
+<data key="x">-164.9286</data>
+<data key="y">-304.20148</data>
+</node>
+<node id="NO">
+<data key="label">NO</data>
+<data key="size">10.0</data>
+<data key="r">192</data>
+<data key="g">192</data>
+<data key="b">192</data>
+<data key="x">-239.40666</data>
+<data key="y">189.44206</data>
+</node>
+<node id="CH">
+<data key="label">CH</data>
+<data key="size">10.0</data>
+<data key="r">192</data>
+<data key="g">192</data>
+<data key="b">192</data>
+<data key="x">-0.3614139</data>
+<data key="y">344.44327</data>
+</node>
+<node id="GB">
+<data key="label">GB</data>
+<data key="size">10.0</data>
+<data key="r">192</data>
+<data key="g">192</data>
+<data key="b">192</data>
+<data key="x">151.37744</data>
+<data key="y">226.54832</data>
+</node>
+<node id="RS">
+<data key="label">RS</data>
+<data key="size">10.0</data>
+<data key="r">192</data>
+<data key="g">192</data>
+<data key="b">192</data>
+<data key="x">94.449104</data>
+<data key="y">39.336094</data>
+</node>
+<node id="TR">
+<data key="label">TR</data>
+<data key="size">10.0</data>
+<data key="r">192</data>
+<data key="g">192</data>
+<data key="b">192</data>
+<data key="x">192.60628</data>
+<data key="y">-344.07916</data>
+</node>
+<node id="LI">
+<data key="label">LI</data>
+<data key="size">10.0</data>
+<data key="r">192</data>
+<data key="g">192</data>
+<data key="b">192</data>
+<data key="x">172.97049</data>
+<data key="y">-76.77974</data>
+</node>
+<node id="MK">
+<data key="label">MK</data>
+<data key="size">10.0</data>
+<data key="r">192</data>
+<data key="g">192</data>
+<data key="b">192</data>
+<data key="x">280.7161</data>
+<data key="y">-35.44908</data>
+</node>
+<node id="SI">
+<data key="label">SI</data>
+<data key="size">10.0</data>
+<data key="r">192</data>
+<data key="g">192</data>
+<data key="b">192</data>
+<data key="x">-82.663506</data>
+<data key="y">-105.40528</data>
+</node>
+<node id="ME">
+<data key="label">ME</data>
+<data key="size">10.0</data>
+<data key="r">192</data>
+<data key="g">192</data>
+<data key="b">192</data>
+<data key="x">138.16083</data>
+<data key="y">252.27718</data>
+</node>
+<edge id="1051" source="BE" target="TR">
+<data key="weight">82.0</data>
+</edge>
+<edge id="1050" source="BE" target="RS">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1049" source="BE" target="GB">
+<data key="weight">2021.0</data>
+</edge>
+<edge id="1048" source="BE" target="CH">
+<data key="weight">189.0</data>
+</edge>
+<edge id="1047" source="BE" target="NO">
+<data key="weight">24.0</data>
+</edge>
+<edge id="1046" source="BE" target="IS">
+<data key="weight">5.0</data>
+</edge>
+<edge id="1045" source="BE" target="SE">
+<data key="weight">26.0</data>
+</edge>
+<edge id="1044" source="BE" target="FI">
+<data key="weight">20.0</data>
+</edge>
+<edge id="1043" source="BE" target="SK">
+<data key="weight">2.0</data>
+</edge>
+<edge id="1042" source="BE" target="RO">
+<data key="weight">21.0</data>
+</edge>
+<edge id="1041" source="BE" target="PT">
+<data key="weight">53.0</data>
+</edge>
+<edge id="1040" source="BE" target="PL">
+<data key="weight">13.0</data>
+</edge>
+<edge id="1039" source="BE" target="AT">
+<data key="weight">75.0</data>
+</edge>
+<edge id="1038" source="BE" target="NL">
+<data key="weight">2335.0</data>
+</edge>
+<edge id="1037" source="BE" target="MT">
+<data key="weight">5.0</data>
+</edge>
+<edge id="1036" source="BE" target="HU">
+<data key="weight">88.0</data>
+</edge>
+<edge id="1035" source="BE" target="LU">
+<data key="weight">81.0</data>
+</edge>
+<edge id="1034" source="BE" target="LT">
+<data key="weight">15.0</data>
+</edge>
+<edge id="1033" source="BE" target="LV">
+<data key="weight">7.0</data>
+</edge>
+<edge id="1032" source="BE" target="CY">
+<data key="weight">4.0</data>
+</edge>
+<edge id="1031" source="BE" target="IT">
+<data key="weight">134.0</data>
+</edge>
+<edge id="1030" source="BE" target="HR">
+<data key="weight">15.0</data>
+</edge>
+<edge id="1029" source="BE" target="FR">
+<data key="weight">648.0</data>
+</edge>
+<edge id="1028" source="BE" target="ES">
+<data key="weight">133.0</data>
+</edge>
+<edge id="1027" source="BE" target="EL">
+<data key="weight">84.0</data>
+</edge>
+<edge id="1026" source="BE" target="IE">
+<data key="weight">100.0</data>
+</edge>
+<edge id="1025" source="BE" target="EE">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1024" source="BE" target="DE">
+<data key="weight">1262.0</data>
+</edge>
+<edge id="1023" source="BE" target="DK">
+<data key="weight">67.0</data>
+</edge>
+<edge id="1022" source="BE" target="CZ">
+<data key="weight">2.0</data>
+</edge>
+<edge id="1021" source="BE" target="BG">
+<data key="weight">8.0</data>
+</edge>
+<edge id="2011" source="TR" target="BE">
+<data key="weight">38.0</data>
+</edge>
+<edge id="1982" source="RS" target="BE">
+<data key="weight">4.0</data>
+</edge>
+<edge id="1954" source="MK" target="BE">
+<data key="weight">4.0</data>
+</edge>
+<edge id="1931" source="ME" target="BE">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1899" source="GB" target="BE">
+<data key="weight">55.0</data>
+</edge>
+<edge id="1869" source="CH" target="BE">
+<data key="weight">97.0</data>
+</edge>
+<edge id="1841" source="NO" target="BE">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1782" source="SE" target="BE">
+<data key="weight">13.0</data>
+</edge>
+<edge id="1752" source="FI" target="BE">
+<data key="weight">18.0</data>
+</edge>
+<edge id="1723" source="SK" target="BE">
+<data key="weight">12.0</data>
+</edge>
+<edge id="1697" source="SI" target="BE">
+<data key="weight">4.0</data>
+</edge>
+<edge id="1666" source="RO" target="BE">
+<data key="weight">83.0</data>
+</edge>
+<edge id="1637" source="PT" target="BE">
+<data key="weight">52.0</data>
+</edge>
+<edge id="1605" source="PL" target="BE">
+<data key="weight">34.0</data>
+</edge>
+<edge id="1575" source="AT" target="BE">
+<data key="weight">8.0</data>
+</edge>
+<edge id="1546" source="NL" target="BE">
+<data key="weight">1254.0</data>
+</edge>
+<edge id="1526" source="MT" target="BE">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1496" source="HU" target="BE">
+<data key="weight">22.0</data>
+</edge>
+<edge id="1471" source="LU" target="BE">
+<data key="weight">1435.0</data>
+</edge>
+<edge id="1441" source="LT" target="BE">
+<data key="weight">7.0</data>
+</edge>
+<edge id="1413" source="LV" target="BE">
+<data key="weight">8.0</data>
+</edge>
+<edge id="1386" source="CY" target="BE">
+<data key="weight">5.0</data>
+</edge>
+<edge id="1354" source="IT" target="BE">
+<data key="weight">259.0</data>
+</edge>
+<edge id="1327" source="HR" target="BE">
+<data key="weight">7.0</data>
+</edge>
+<edge id="1294" source="FR" target="BE">
+<data key="weight">10105.0</data>
+</edge>
+<edge id="1262" source="ES" target="BE">
+<data key="weight">126.0</data>
+</edge>
+<edge id="1231" source="EL" target="BE">
+<data key="weight">70.0</data>
+</edge>
+<edge id="1201" source="IE" target="BE">
+<data key="weight">9.0</data>
+</edge>
+<edge id="1140" source="DE" target="BE">
+<data key="weight">127.0</data>
+</edge>
+<edge id="1111" source="DK" target="BE">
+<data key="weight">3.0</data>
+</edge>
+<edge id="1082" source="CZ" target="BE">
+<data key="weight">7.0</data>
+</edge>
+<edge id="1052" source="BG" target="BE">
+<data key="weight">33.0</data>
+</edge>
+<edge id="1081" source="BG" target="TR">
+<data key="weight">1812.0</data>
+</edge>
+<edge id="1080" source="BG" target="RS">
+<data key="weight">2.0</data>
+</edge>
+<edge id="1079" source="BG" target="MK">
+<data key="weight">18.0</data>
+</edge>
+<edge id="1078" source="BG" target="GB">
+<data key="weight">5288.0</data>
+</edge>
+<edge id="1077" source="BG" target="CH">
+<data key="weight">71.0</data>
+</edge>
+<edge id="1076" source="BG" target="NO">
+<data key="weight">40.0</data>
+</edge>
+<edge id="1075" source="BG" target="LI">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1074" source="BG" target="SE">
+<data key="weight">56.0</data>
+</edge>
+<edge id="1073" source="BG" target="FI">
+<data key="weight">35.0</data>
+</edge>
+<edge id="1072" source="BG" target="RO">
+<data key="weight">69.0</data>
+</edge>
+<edge id="1071" source="BG" target="PT">
+<data key="weight">3.0</data>
+</edge>
+<edge id="1070" source="BG" target="PL">
+<data key="weight">17.0</data>
+</edge>
+<edge id="1069" source="BG" target="AT">
+<data key="weight">1051.0</data>
+</edge>
+<edge id="1068" source="BG" target="NL">
+<data key="weight">2130.0</data>
+</edge>
+<edge id="1067" source="BG" target="MT">
+<data key="weight">11.0</data>
+</edge>
+<edge id="1066" source="BG" target="HU">
+<data key="weight">30.0</data>
+</edge>
+<edge id="1065" source="BG" target="LU">
+<data key="weight">15.0</data>
+</edge>
+<edge id="1064" source="BG" target="LT">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1063" source="BG" target="LV">
+<data key="weight">4.0</data>
+</edge>
+<edge id="1062" source="BG" target="CY">
+<data key="weight">13.0</data>
+</edge>
+<edge id="1061" source="BG" target="IT">
+<data key="weight">609.0</data>
+</edge>
+<edge id="1060" source="BG" target="HR">
+<data key="weight">20.0</data>
+</edge>
+<edge id="1059" source="BG" target="FR">
+<data key="weight">471.0</data>
+</edge>
+<edge id="1058" source="BG" target="ES">
+<data key="weight">119.0</data>
+</edge>
+<edge id="1057" source="BG" target="EL">
+<data key="weight">294.0</data>
+</edge>
+<edge id="1056" source="BG" target="IE">
+<data key="weight">10.0</data>
+</edge>
+<edge id="1055" source="BG" target="DE">
+<data key="weight">3876.0</data>
+</edge>
+<edge id="1054" source="BG" target="DK">
+<data key="weight">485.0</data>
+</edge>
+<edge id="1053" source="BG" target="CZ">
+<data key="weight">54.0</data>
+</edge>
+<edge id="2012" source="TR" target="BG">
+<data key="weight">666.0</data>
+</edge>
+<edge id="1983" source="RS" target="BG">
+<data key="weight">381.0</data>
+</edge>
+<edge id="1955" source="MK" target="BG">
+<data key="weight">480.0</data>
+</edge>
+<edge id="1932" source="ME" target="BG">
+<data key="weight">5.0</data>
+</edge>
+<edge id="1900" source="GB" target="BG">
+<data key="weight">19.0</data>
+</edge>
+<edge id="1870" source="CH" target="BG">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1842" source="NO" target="BG">
+<data key="weight">3.0</data>
+</edge>
+<edge id="1783" source="SE" target="BG">
+<data key="weight">5.0</data>
+</edge>
+<edge id="1753" source="FI" target="BG">
+<data key="weight">2.0</data>
+</edge>
+<edge id="1724" source="SK" target="BG">
+<data key="weight">4.0</data>
+</edge>
+<edge id="1667" source="RO" target="BG">
+<data key="weight">11.0</data>
+</edge>
+<edge id="1638" source="PT" target="BG">
+<data key="weight">3.0</data>
+</edge>
+<edge id="1606" source="PL" target="BG">
+<data key="weight">34.0</data>
+</edge>
+<edge id="1576" source="AT" target="BG">
+<data key="weight">5.0</data>
+</edge>
+<edge id="1547" source="NL" target="BG">
+<data key="weight">13.0</data>
+</edge>
+<edge id="1527" source="MT" target="BG">
+<data key="weight">2.0</data>
+</edge>
+<edge id="1497" source="HU" target="BG">
+<data key="weight">2.0</data>
+</edge>
+<edge id="1442" source="LT" target="BG">
+<data key="weight">6.0</data>
+</edge>
+<edge id="1414" source="LV" target="BG">
+<data key="weight">4.0</data>
+</edge>
+<edge id="1387" source="CY" target="BG">
+<data key="weight">72.0</data>
+</edge>
+<edge id="1355" source="IT" target="BG">
+<data key="weight">40.0</data>
+</edge>
+<edge id="1295" source="FR" target="BG">
+<data key="weight">32.0</data>
+</edge>
+<edge id="1263" source="ES" target="BG">
+<data key="weight">43.0</data>
+</edge>
+<edge id="1232" source="EL" target="BG">
+<data key="weight">908.0</data>
+</edge>
+<edge id="1202" source="IE" target="BG">
+<data key="weight">8.0</data>
+</edge>
+<edge id="1173" source="EE" target="BG">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1141" source="DE" target="BG">
+<data key="weight">43.0</data>
+</edge>
+<edge id="1112" source="DK" target="BG">
+<data key="weight">3.0</data>
+</edge>
+<edge id="1083" source="CZ" target="BG">
+<data key="weight">6.0</data>
+</edge>
+<edge id="1110" source="CZ" target="TR">
+<data key="weight">3.0</data>
+</edge>
+<edge id="1109" source="CZ" target="RS">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1108" source="CZ" target="GB">
+<data key="weight">1982.0</data>
+</edge>
+<edge id="1107" source="CZ" target="CH">
+<data key="weight">55.0</data>
+</edge>
+<edge id="1106" source="CZ" target="NO">
+<data key="weight">24.0</data>
+</edge>
+<edge id="1105" source="CZ" target="IS">
+<data key="weight">6.0</data>
+</edge>
+<edge id="1104" source="CZ" target="SE">
+<data key="weight">23.0</data>
+</edge>
+<edge id="1103" source="CZ" target="FI">
+<data key="weight">32.0</data>
+</edge>
+<edge id="1102" source="CZ" target="SK">
+<data key="weight">2050.0</data>
+</edge>
+<edge id="1101" source="CZ" target="RO">
+<data key="weight">3.0</data>
+</edge>
+<edge id="1100" source="CZ" target="PL">
+<data key="weight">299.0</data>
+</edge>
+<edge id="1099" source="CZ" target="AT">
+<data key="weight">188.0</data>
+</edge>
+<edge id="1098" source="CZ" target="NL">
+<data key="weight">241.0</data>
+</edge>
+<edge id="1097" source="CZ" target="MT">
+<data key="weight">4.0</data>
+</edge>
+<edge id="1096" source="CZ" target="HU">
+<data key="weight">42.0</data>
+</edge>
+<edge id="1095" source="CZ" target="LT">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1094" source="CZ" target="LV">
+<data key="weight">2.0</data>
+</edge>
+<edge id="1093" source="CZ" target="CY">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1092" source="CZ" target="IT">
+<data key="weight">64.0</data>
+</edge>
+<edge id="1091" source="CZ" target="HR">
+<data key="weight">24.0</data>
+</edge>
+<edge id="1090" source="CZ" target="FR">
+<data key="weight">88.0</data>
+</edge>
+<edge id="1089" source="CZ" target="ES">
+<data key="weight">20.0</data>
+</edge>
+<edge id="1088" source="CZ" target="EL">
+<data key="weight">12.0</data>
+</edge>
+<edge id="1087" source="CZ" target="IE">
+<data key="weight">13.0</data>
+</edge>
+<edge id="1086" source="CZ" target="EE">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1085" source="CZ" target="DE">
+<data key="weight">532.0</data>
+</edge>
+<edge id="1084" source="CZ" target="DK">
+<data key="weight">271.0</data>
+</edge>
+<edge id="2013" source="TR" target="CZ">
+<data key="weight">38.0</data>
+</edge>
+<edge id="1984" source="RS" target="CZ">
+<data key="weight">77.0</data>
+</edge>
+<edge id="1956" source="MK" target="CZ">
+<data key="weight">48.0</data>
+</edge>
+<edge id="1933" source="ME" target="CZ">
+<data key="weight">3.0</data>
+</edge>
+<edge id="1901" source="GB" target="CZ">
+<data key="weight">16.0</data>
+</edge>
+<edge id="1871" source="CH" target="CZ">
+<data key="weight">8.0</data>
+</edge>
+<edge id="1843" source="NO" target="CZ">
+<data key="weight">12.0</data>
+</edge>
+<edge id="1784" source="SE" target="CZ">
+<data key="weight">7.0</data>
+</edge>
+<edge id="1754" source="FI" target="CZ">
+<data key="weight">7.0</data>
+</edge>
+<edge id="1725" source="SK" target="CZ">
+<data key="weight">10935.0</data>
+</edge>
+<edge id="1698" source="SI" target="CZ">
+<data key="weight">10.0</data>
+</edge>
+<edge id="1668" source="RO" target="CZ">
+<data key="weight">46.0</data>
+</edge>
+<edge id="1639" source="PT" target="CZ">
+<data key="weight">4.0</data>
+</edge>
+<edge id="1607" source="PL" target="CZ">
+<data key="weight">167.0</data>
+</edge>
+<edge id="1577" source="AT" target="CZ">
+<data key="weight">121.0</data>
+</edge>
+<edge id="1548" source="NL" target="CZ">
+<data key="weight">7.0</data>
+</edge>
+<edge id="1498" source="HU" target="CZ">
+<data key="weight">25.0</data>
+</edge>
+<edge id="1472" source="LU" target="CZ">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1443" source="LT" target="CZ">
+<data key="weight">6.0</data>
+</edge>
+<edge id="1415" source="LV" target="CZ">
+<data key="weight">5.0</data>
+</edge>
+<edge id="1388" source="CY" target="CZ">
+<data key="weight">21.0</data>
+</edge>
+<edge id="1356" source="IT" target="CZ">
+<data key="weight">222.0</data>
+</edge>
+<edge id="1328" source="HR" target="CZ">
+<data key="weight">31.0</data>
+</edge>
+<edge id="1296" source="FR" target="CZ">
+<data key="weight">23.0</data>
+</edge>
+<edge id="1264" source="ES" target="CZ">
+<data key="weight">10.0</data>
+</edge>
+<edge id="1233" source="EL" target="CZ">
+<data key="weight">16.0</data>
+</edge>
+<edge id="1203" source="IE" target="CZ">
+<data key="weight">2.0</data>
+</edge>
+<edge id="1174" source="EE" target="CZ">
+<data key="weight">6.0</data>
+</edge>
+<edge id="1142" source="DE" target="CZ">
+<data key="weight">111.0</data>
+</edge>
+<edge id="1113" source="DK" target="CZ">
+<data key="weight">2.0</data>
+</edge>
+<edge id="1139" source="DK" target="TR">
+<data key="weight">37.0</data>
+</edge>
+<edge id="1138" source="DK" target="RS">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1137" source="DK" target="MK">
+<data key="weight">2.0</data>
+</edge>
+<edge id="1136" source="DK" target="GB">
+<data key="weight">835.0</data>
+</edge>
+<edge id="1135" source="DK" target="CH">
+<data key="weight">19.0</data>
+</edge>
+<edge id="1134" source="DK" target="NO">
+<data key="weight">386.0</data>
+</edge>
+<edge id="1133" source="DK" target="IS">
+<data key="weight">34.0</data>
+</edge>
+<edge id="1132" source="DK" target="SE">
+<data key="weight">152.0</data>
+</edge>
+<edge id="1131" source="DK" target="FI">
+<data key="weight">21.0</data>
+</edge>
+<edge id="1130" source="DK" target="RO">
+<data key="weight">8.0</data>
+</edge>
+<edge id="1129" source="DK" target="PT">
+<data key="weight">2.0</data>
+</edge>
+<edge id="1128" source="DK" target="PL">
+<data key="weight">47.0</data>
+</edge>
+<edge id="1127" source="DK" target="AT">
+<data key="weight">14.0</data>
+</edge>
+<edge id="1126" source="DK" target="NL">
+<data key="weight">284.0</data>
+</edge>
+<edge id="1125" source="DK" target="MT">
+<data key="weight">3.0</data>
+</edge>
+<edge id="1124" source="DK" target="HU">
+<data key="weight">17.0</data>
+</edge>
+<edge id="1123" source="DK" target="LV">
+<data key="weight">12.0</data>
+</edge>
+<edge id="1122" source="DK" target="CY">
+<data key="weight">2.0</data>
+</edge>
+<edge id="1121" source="DK" target="IT">
+<data key="weight">34.0</data>
+</edge>
+<edge id="1120" source="DK" target="HR">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1119" source="DK" target="FR">
+<data key="weight">57.0</data>
+</edge>
+<edge id="1118" source="DK" target="ES">
+<data key="weight">18.0</data>
+</edge>
+<edge id="1117" source="DK" target="EL">
+<data key="weight">5.0</data>
+</edge>
+<edge id="1116" source="DK" target="IE">
+<data key="weight">4.0</data>
+</edge>
+<edge id="1115" source="DK" target="EE">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1114" source="DK" target="DE">
+<data key="weight">237.0</data>
+</edge>
+<edge id="2014" source="TR" target="DK">
+<data key="weight">37.0</data>
+</edge>
+<edge id="1985" source="RS" target="DK">
+<data key="weight">11.0</data>
+</edge>
+<edge id="1957" source="MK" target="DK">
+<data key="weight">6.0</data>
+</edge>
+<edge id="1902" source="GB" target="DK">
+<data key="weight">276.0</data>
+</edge>
+<edge id="1872" source="CH" target="DK">
+<data key="weight">47.0</data>
+</edge>
+<edge id="1844" source="NO" target="DK">
+<data key="weight">1398.0</data>
+</edge>
+<edge id="1830" source="LI" target="DK">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1813" source="IS" target="DK">
+<data key="weight">395.0</data>
+</edge>
+<edge id="1785" source="SE" target="DK">
+<data key="weight">734.0</data>
+</edge>
+<edge id="1755" source="FI" target="DK">
+<data key="weight">133.0</data>
+</edge>
+<edge id="1726" source="SK" target="DK">
+<data key="weight">617.0</data>
+</edge>
+<edge id="1699" source="SI" target="DK">
+<data key="weight">34.0</data>
+</edge>
+<edge id="1669" source="RO" target="DK">
+<data key="weight">915.0</data>
+</edge>
+<edge id="1640" source="PT" target="DK">
+<data key="weight">100.0</data>
+</edge>
+<edge id="1608" source="PL" target="DK">
+<data key="weight">618.0</data>
+</edge>
+<edge id="1578" source="AT" target="DK">
+<data key="weight">42.0</data>
+</edge>
+<edge id="1549" source="NL" target="DK">
+<data key="weight">113.0</data>
+</edge>
+<edge id="1528" source="MT" target="DK">
+<data key="weight">8.0</data>
+</edge>
+<edge id="1499" source="HU" target="DK">
+<data key="weight">550.0</data>
+</edge>
+<edge id="1473" source="LU" target="DK">
+<data key="weight">62.0</data>
+</edge>
+<edge id="1444" source="LT" target="DK">
+<data key="weight">499.0</data>
+</edge>
+<edge id="1416" source="LV" target="DK">
+<data key="weight">332.0</data>
+</edge>
+<edge id="1389" source="CY" target="DK">
+<data key="weight">9.0</data>
+</edge>
+<edge id="1357" source="IT" target="DK">
+<data key="weight">194.0</data>
+</edge>
+<edge id="1329" source="HR" target="DK">
+<data key="weight">101.0</data>
+</edge>
+<edge id="1297" source="FR" target="DK">
+<data key="weight">158.0</data>
+</edge>
+<edge id="1265" source="ES" target="DK">
+<data key="weight">288.0</data>
+</edge>
+<edge id="1234" source="EL" target="DK">
+<data key="weight">82.0</data>
+</edge>
+<edge id="1204" source="IE" target="DK">
+<data key="weight">36.0</data>
+</edge>
+<edge id="1175" source="EE" target="DK">
+<data key="weight">146.0</data>
+</edge>
+<edge id="1143" source="DE" target="DK">
+<data key="weight">1147.0</data>
+</edge>
+<edge id="1172" source="DE" target="TR">
+<data key="weight">2745.0</data>
+</edge>
+<edge id="1171" source="DE" target="RS">
+<data key="weight">13.0</data>
+</edge>
+<edge id="1170" source="DE" target="MK">
+<data key="weight">7.0</data>
+</edge>
+<edge id="1169" source="DE" target="GB">
+<data key="weight">5821.0</data>
+</edge>
+<edge id="1168" source="DE" target="CH">
+<data key="weight">4154.0</data>
+</edge>
+<edge id="1167" source="DE" target="NO">
+<data key="weight">226.0</data>
+</edge>
+<edge id="1166" source="DE" target="LI">
+<data key="weight">51.0</data>
+</edge>
+<edge id="1165" source="DE" target="IS">
+<data key="weight">41.0</data>
+</edge>
+<edge id="1164" source="DE" target="SE">
+<data key="weight">332.0</data>
+</edge>
+<edge id="1163" source="DE" target="FI">
+<data key="weight">234.0</data>
+</edge>
+<edge id="1162" source="DE" target="SK">
+<data key="weight">6.0</data>
+</edge>
+<edge id="1161" source="DE" target="RO">
+<data key="weight">68.0</data>
+</edge>
+<edge id="1160" source="DE" target="PT">
+<data key="weight">48.0</data>
+</edge>
+<edge id="1159" source="DE" target="PL">
+<data key="weight">750.0</data>
+</edge>
+<edge id="1158" source="DE" target="AT">
+<data key="weight">14015.0</data>
+</edge>
+<edge id="1157" source="DE" target="NL">
+<data key="weight">17556.0</data>
+</edge>
+<edge id="1156" source="DE" target="MT">
+<data key="weight">18.0</data>
+</edge>
+<edge id="1155" source="DE" target="HU">
+<data key="weight">651.0</data>
+</edge>
+<edge id="1154" source="DE" target="LU">
+<data key="weight">187.0</data>
+</edge>
+<edge id="1153" source="DE" target="LT">
+<data key="weight">13.0</data>
+</edge>
+<edge id="1152" source="DE" target="LV">
+<data key="weight">62.0</data>
+</edge>
+<edge id="1151" source="DE" target="CY">
+<data key="weight">7.0</data>
+</edge>
+<edge id="1150" source="DE" target="IT">
+<data key="weight">811.0</data>
+</edge>
+<edge id="1149" source="DE" target="HR">
+<data key="weight">66.0</data>
+</edge>
+<edge id="1148" source="DE" target="FR">
+<data key="weight">1126.0</data>
+</edge>
+<edge id="1147" source="DE" target="ES">
+<data key="weight">418.0</data>
+</edge>
+<edge id="1146" source="DE" target="EL">
+<data key="weight">1404.0</data>
+</edge>
+<edge id="1145" source="DE" target="IE">
+<data key="weight">243.0</data>
+</edge>
+<edge id="1144" source="DE" target="EE">
+<data key="weight">7.0</data>
+</edge>
+<edge id="2015" source="TR" target="DE">
+<data key="weight">3161.0</data>
+</edge>
+<edge id="1986" source="RS" target="DE">
+<data key="weight">340.0</data>
+</edge>
+<edge id="1958" source="MK" target="DE">
+<data key="weight">239.0</data>
+</edge>
+<edge id="1934" source="ME" target="DE">
+<data key="weight">48.0</data>
+</edge>
+<edge id="1903" source="GB" target="DE">
+<data key="weight">1699.0</data>
+</edge>
+<edge id="1873" source="CH" target="DE">
+<data key="weight">2539.0</data>
+</edge>
+<edge id="1845" source="NO" target="DE">
+<data key="weight">176.0</data>
+</edge>
+<edge id="1831" source="LI" target="DE">
+<data key="weight">33.0</data>
+</edge>
+<edge id="1814" source="IS" target="DE">
+<data key="weight">43.0</data>
+</edge>
+<edge id="1786" source="SE" target="DE">
+<data key="weight">282.0</data>
+</edge>
+<edge id="1756" source="FI" target="DE">
+<data key="weight">361.0</data>
+</edge>
+<edge id="1727" source="SK" target="DE">
+<data key="weight">272.0</data>
+</edge>
+<edge id="1700" source="SI" target="DE">
+<data key="weight">108.0</data>
+</edge>
+<edge id="1670" source="RO" target="DE">
+<data key="weight">1264.0</data>
+</edge>
+<edge id="1641" source="PT" target="DE">
+<data key="weight">326.0</data>
+</edge>
+<edge id="1609" source="PL" target="DE">
+<data key="weight">2307.0</data>
+</edge>
+<edge id="1579" source="AT" target="DE">
+<data key="weight">8069.0</data>
+</edge>
+<edge id="1550" source="NL" target="DE">
+<data key="weight">630.0</data>
+</edge>
+<edge id="1529" source="MT" target="DE">
+<data key="weight">7.0</data>
+</edge>
+<edge id="1500" source="HU" target="DE">
+<data key="weight">958.0</data>
+</edge>
+<edge id="1474" source="LU" target="DE">
+<data key="weight">3133.0</data>
+</edge>
+<edge id="1445" source="LT" target="DE">
+<data key="weight">355.0</data>
+</edge>
+<edge id="1417" source="LV" target="DE">
+<data key="weight">343.0</data>
+</edge>
+<edge id="1390" source="CY" target="DE">
+<data key="weight">247.0</data>
+</edge>
+<edge id="1358" source="IT" target="DE">
+<data key="weight">2634.0</data>
+</edge>
+<edge id="1330" source="HR" target="DE">
+<data key="weight">336.0</data>
+</edge>
+<edge id="1298" source="FR" target="DE">
+<data key="weight">3323.0</data>
+</edge>
+<edge id="1266" source="ES" target="DE">
+<data key="weight">2317.0</data>
+</edge>
+<edge id="1235" source="EL" target="DE">
+<data key="weight">1400.0</data>
+</edge>
+<edge id="1205" source="IE" target="DE">
+<data key="weight">273.0</data>
+</edge>
+<edge id="1176" source="EE" target="DE">
+<data key="weight">175.0</data>
+</edge>
+<edge id="1200" source="EE" target="TR">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1199" source="EE" target="GB">
+<data key="weight">776.0</data>
+</edge>
+<edge id="1198" source="EE" target="CH">
+<data key="weight">8.0</data>
+</edge>
+<edge id="1197" source="EE" target="NO">
+<data key="weight">22.0</data>
+</edge>
+<edge id="1196" source="EE" target="IS">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1195" source="EE" target="SE">
+<data key="weight">40.0</data>
+</edge>
+<edge id="1194" source="EE" target="FI">
+<data key="weight">205.0</data>
+</edge>
+<edge id="1193" source="EE" target="SK">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1192" source="EE" target="PT">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1191" source="EE" target="PL">
+<data key="weight">3.0</data>
+</edge>
+<edge id="1190" source="EE" target="AT">
+<data key="weight">35.0</data>
+</edge>
+<edge id="1189" source="EE" target="NL">
+<data key="weight">244.0</data>
+</edge>
+<edge id="1188" source="EE" target="MT">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1187" source="EE" target="HU">
+<data key="weight">10.0</data>
+</edge>
+<edge id="1186" source="EE" target="LU">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1185" source="EE" target="LT">
+<data key="weight">4.0</data>
+</edge>
+<edge id="1184" source="EE" target="LV">
+<data key="weight">40.0</data>
+</edge>
+<edge id="1183" source="EE" target="CY">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1182" source="EE" target="IT">
+<data key="weight">32.0</data>
+</edge>
+<edge id="1181" source="EE" target="HR">
+<data key="weight">4.0</data>
+</edge>
+<edge id="1180" source="EE" target="FR">
+<data key="weight">11.0</data>
+</edge>
+<edge id="1179" source="EE" target="ES">
+<data key="weight">15.0</data>
+</edge>
+<edge id="1178" source="EE" target="EL">
+<data key="weight">7.0</data>
+</edge>
+<edge id="1177" source="EE" target="IE">
+<data key="weight">9.0</data>
+</edge>
+<edge id="2016" source="TR" target="EE">
+<data key="weight">32.0</data>
+</edge>
+<edge id="1935" source="ME" target="EE">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1904" source="GB" target="EE">
+<data key="weight">2.0</data>
+</edge>
+<edge id="1846" source="NO" target="EE">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1787" source="SE" target="EE">
+<data key="weight">4.0</data>
+</edge>
+<edge id="1757" source="FI" target="EE">
+<data key="weight">1058.0</data>
+</edge>
+<edge id="1728" source="SK" target="EE">
+<data key="weight">2.0</data>
+</edge>
+<edge id="1671" source="RO" target="EE">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1610" source="PL" target="EE">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1580" source="AT" target="EE">
+<data key="weight">2.0</data>
+</edge>
+<edge id="1551" source="NL" target="EE">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1501" source="HU" target="EE">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1446" source="LT" target="EE">
+<data key="weight">9.0</data>
+</edge>
+<edge id="1418" source="LV" target="EE">
+<data key="weight">52.0</data>
+</edge>
+<edge id="1391" source="CY" target="EE">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1359" source="IT" target="EE">
+<data key="weight">6.0</data>
+</edge>
+<edge id="1331" source="HR" target="EE">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1299" source="FR" target="EE">
+<data key="weight">3.0</data>
+</edge>
+<edge id="1267" source="ES" target="EE">
+<data key="weight">7.0</data>
+</edge>
+<edge id="1206" source="IE" target="EE">
+<data key="weight">2.0</data>
+</edge>
+<edge id="1230" source="IE" target="TR">
+<data key="weight">4.0</data>
+</edge>
+<edge id="1229" source="IE" target="RS">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1228" source="IE" target="GB">
+<data key="weight">4799.0</data>
+</edge>
+<edge id="1227" source="IE" target="CH">
+<data key="weight">11.0</data>
+</edge>
+<edge id="1226" source="IE" target="NO">
+<data key="weight">6.0</data>
+</edge>
+<edge id="1225" source="IE" target="IS">
+<data key="weight">2.0</data>
+</edge>
+<edge id="1224" source="IE" target="SE">
+<data key="weight">17.0</data>
+</edge>
+<edge id="1223" source="IE" target="FI">
+<data key="weight">16.0</data>
+</edge>
+<edge id="1222" source="IE" target="RO">
+<data key="weight">6.0</data>
+</edge>
+<edge id="1221" source="IE" target="PT">
+<data key="weight">2.0</data>
+</edge>
+<edge id="1220" source="IE" target="PL">
+<data key="weight">183.0</data>
+</edge>
+<edge id="1219" source="IE" target="AT">
+<data key="weight">54.0</data>
+</edge>
+<edge id="1218" source="IE" target="NL">
+<data key="weight">511.0</data>
+</edge>
+<edge id="1217" source="IE" target="MT">
+<data key="weight">2.0</data>
+</edge>
+<edge id="1216" source="IE" target="HU">
+<data key="weight">34.0</data>
+</edge>
+<edge id="1215" source="IE" target="LU">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1214" source="IE" target="LT">
+<data key="weight">38.0</data>
+</edge>
+<edge id="1213" source="IE" target="LV">
+<data key="weight">20.0</data>
+</edge>
+<edge id="1212" source="IE" target="CY">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1211" source="IE" target="IT">
+<data key="weight">29.0</data>
+</edge>
+<edge id="1210" source="IE" target="HR">
+<data key="weight">2.0</data>
+</edge>
+<edge id="1209" source="IE" target="FR">
+<data key="weight">57.0</data>
+</edge>
+<edge id="1208" source="IE" target="ES">
+<data key="weight">38.0</data>
+</edge>
+<edge id="1207" source="IE" target="EL">
+<data key="weight">2.0</data>
+</edge>
+<edge id="2017" source="TR" target="IE">
+<data key="weight">11.0</data>
+</edge>
+<edge id="1987" source="RS" target="IE">
+<data key="weight">3.0</data>
+</edge>
+<edge id="1959" source="MK" target="IE">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1905" source="GB" target="IE">
+<data key="weight">1053.0</data>
+</edge>
+<edge id="1874" source="CH" target="IE">
+<data key="weight">28.0</data>
+</edge>
+<edge id="1847" source="NO" target="IE">
+<data key="weight">38.0</data>
+</edge>
+<edge id="1815" source="IS" target="IE">
+<data key="weight">3.0</data>
+</edge>
+<edge id="1788" source="SE" target="IE">
+<data key="weight">25.0</data>
+</edge>
+<edge id="1758" source="FI" target="IE">
+<data key="weight">36.0</data>
+</edge>
+<edge id="1729" source="SK" target="IE">
+<data key="weight">13.0</data>
+</edge>
+<edge id="1701" source="SI" target="IE">
+<data key="weight">6.0</data>
+</edge>
+<edge id="1672" source="RO" target="IE">
+<data key="weight">43.0</data>
+</edge>
+<edge id="1642" source="PT" target="IE">
+<data key="weight">14.0</data>
+</edge>
+<edge id="1611" source="PL" target="IE">
+<data key="weight">164.0</data>
+</edge>
+<edge id="1581" source="AT" target="IE">
+<data key="weight">15.0</data>
+</edge>
+<edge id="1552" source="NL" target="IE">
+<data key="weight">29.0</data>
+</edge>
+<edge id="1530" source="MT" target="IE">
+<data key="weight">3.0</data>
+</edge>
+<edge id="1502" source="HU" target="IE">
+<data key="weight">33.0</data>
+</edge>
+<edge id="1475" source="LU" target="IE">
+<data key="weight">66.0</data>
+</edge>
+<edge id="1447" source="LT" target="IE">
+<data key="weight">65.0</data>
+</edge>
+<edge id="1419" source="LV" target="IE">
+<data key="weight">23.0</data>
+</edge>
+<edge id="1392" source="CY" target="IE">
+<data key="weight">5.0</data>
+</edge>
+<edge id="1360" source="IT" target="IE">
+<data key="weight">151.0</data>
+</edge>
+<edge id="1332" source="HR" target="IE">
+<data key="weight">15.0</data>
+</edge>
+<edge id="1300" source="FR" target="IE">
+<data key="weight">411.0</data>
+</edge>
+<edge id="1268" source="ES" target="IE">
+<data key="weight">140.0</data>
+</edge>
+<edge id="1236" source="EL" target="IE">
+<data key="weight">16.0</data>
+</edge>
+<edge id="1261" source="EL" target="TR">
+<data key="weight">1763.0</data>
+</edge>
+<edge id="1260" source="EL" target="RS">
+<data key="weight">13.0</data>
+</edge>
+<edge id="1259" source="EL" target="MK">
+<data key="weight">6.0</data>
+</edge>
+<edge id="1258" source="EL" target="GB">
+<data key="weight">5023.0</data>
+</edge>
+<edge id="1257" source="EL" target="CH">
+<data key="weight">98.0</data>
+</edge>
+<edge id="1256" source="EL" target="NO">
+<data key="weight">48.0</data>
+</edge>
+<edge id="1255" source="EL" target="IS">
+<data key="weight">3.0</data>
+</edge>
+<edge id="1254" source="EL" target="SE">
+<data key="weight">115.0</data>
+</edge>
+<edge id="1253" source="EL" target="FI">
+<data key="weight">22.0</data>
+</edge>
+<edge id="1252" source="EL" target="SK">
+<data key="weight">9.0</data>
+</edge>
+<edge id="1251" source="EL" target="RO">
+<data key="weight">104.0</data>
+</edge>
+<edge id="1250" source="EL" target="PT">
+<data key="weight">2.0</data>
+</edge>
+<edge id="1249" source="EL" target="PL">
+<data key="weight">21.0</data>
+</edge>
+<edge id="1248" source="EL" target="AT">
+<data key="weight">238.0</data>
+</edge>
+<edge id="1247" source="EL" target="NL">
+<data key="weight">701.0</data>
+</edge>
+<edge id="1246" source="EL" target="MT">
+<data key="weight">4.0</data>
+</edge>
+<edge id="1245" source="EL" target="HU">
+<data key="weight">64.0</data>
+</edge>
+<edge id="1244" source="EL" target="LU">
+<data key="weight">6.0</data>
+</edge>
+<edge id="1243" source="EL" target="LT">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1242" source="EL" target="LV">
+<data key="weight">3.0</data>
+</edge>
+<edge id="1241" source="EL" target="CY">
+<data key="weight">2183.0</data>
+</edge>
+<edge id="1240" source="EL" target="IT">
+<data key="weight">498.0</data>
+</edge>
+<edge id="1239" source="EL" target="HR">
+<data key="weight">12.0</data>
+</edge>
+<edge id="1238" source="EL" target="FR">
+<data key="weight">590.0</data>
+</edge>
+<edge id="1237" source="EL" target="ES">
+<data key="weight">10.0</data>
+</edge>
+<edge id="2018" source="TR" target="EL">
+<data key="weight">95.0</data>
+</edge>
+<edge id="1988" source="RS" target="EL">
+<data key="weight">79.0</data>
+</edge>
+<edge id="1960" source="MK" target="EL">
+<data key="weight">24.0</data>
+</edge>
+<edge id="1936" source="ME" target="EL">
+<data key="weight">2.0</data>
+</edge>
+<edge id="1906" source="GB" target="EL">
+<data key="weight">74.0</data>
+</edge>
+<edge id="1875" source="CH" target="EL">
+<data key="weight">22.0</data>
+</edge>
+<edge id="1848" source="NO" target="EL">
+<data key="weight">4.0</data>
+</edge>
+<edge id="1832" source="LI" target="EL">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1789" source="SE" target="EL">
+<data key="weight">37.0</data>
+</edge>
+<edge id="1759" source="FI" target="EL">
+<data key="weight">18.0</data>
+</edge>
+<edge id="1730" source="SK" target="EL">
+<data key="weight">10.0</data>
+</edge>
+<edge id="1702" source="SI" target="EL">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1673" source="RO" target="EL">
+<data key="weight">148.0</data>
+</edge>
+<edge id="1643" source="PT" target="EL">
+<data key="weight">11.0</data>
+</edge>
+<edge id="1612" source="PL" target="EL">
+<data key="weight">71.0</data>
+</edge>
+<edge id="1582" source="AT" target="EL">
+<data key="weight">24.0</data>
+</edge>
+<edge id="1553" source="NL" target="EL">
+<data key="weight">24.0</data>
+</edge>
+<edge id="1531" source="MT" target="EL">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1503" source="HU" target="EL">
+<data key="weight">18.0</data>
+</edge>
+<edge id="1476" source="LU" target="EL">
+<data key="weight">19.0</data>
+</edge>
+<edge id="1448" source="LT" target="EL">
+<data key="weight">6.0</data>
+</edge>
+<edge id="1420" source="LV" target="EL">
+<data key="weight">3.0</data>
+</edge>
+<edge id="1393" source="CY" target="EL">
+<data key="weight">13634.0</data>
+</edge>
+<edge id="1361" source="IT" target="EL">
+<data key="weight">101.0</data>
+</edge>
+<edge id="1333" source="HR" target="EL">
+<data key="weight">7.0</data>
+</edge>
+<edge id="1301" source="FR" target="EL">
+<data key="weight">101.0</data>
+</edge>
+<edge id="1269" source="ES" target="EL">
+<data key="weight">44.0</data>
+</edge>
+<edge id="1293" source="ES" target="TR">
+<data key="weight">19.0</data>
+</edge>
+<edge id="1292" source="ES" target="RS">
+<data key="weight">24.0</data>
+</edge>
+<edge id="1291" source="ES" target="GB">
+<data key="weight">6294.0</data>
+</edge>
+<edge id="1290" source="ES" target="CH">
+<data key="weight">286.0</data>
+</edge>
+<edge id="1289" source="ES" target="NO">
+<data key="weight">103.0</data>
+</edge>
+<edge id="1288" source="ES" target="LI">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1287" source="ES" target="IS">
+<data key="weight">21.0</data>
+</edge>
+<edge id="1286" source="ES" target="SE">
+<data key="weight">83.0</data>
+</edge>
+<edge id="1285" source="ES" target="FI">
+<data key="weight">70.0</data>
+</edge>
+<edge id="1284" source="ES" target="SK">
+<data key="weight">15.0</data>
+</edge>
+<edge id="1283" source="ES" target="RO">
+<data key="weight">102.0</data>
+</edge>
+<edge id="1282" source="ES" target="PT">
+<data key="weight">394.0</data>
+</edge>
+<edge id="1281" source="ES" target="PL">
+<data key="weight">377.0</data>
+</edge>
+<edge id="1280" source="ES" target="AT">
+<data key="weight">179.0</data>
+</edge>
+<edge id="1279" source="ES" target="NL">
+<data key="weight">1106.0</data>
+</edge>
+<edge id="1278" source="ES" target="MT">
+<data key="weight">7.0</data>
+</edge>
+<edge id="1277" source="ES" target="HU">
+<data key="weight">396.0</data>
+</edge>
+<edge id="1276" source="ES" target="LU">
+<data key="weight">6.0</data>
+</edge>
+<edge id="1275" source="ES" target="LT">
+<data key="weight">9.0</data>
+</edge>
+<edge id="1274" source="ES" target="LV">
+<data key="weight">16.0</data>
+</edge>
+<edge id="1273" source="ES" target="CY">
+<data key="weight">2.0</data>
+</edge>
+<edge id="1272" source="ES" target="IT">
+<data key="weight">473.0</data>
+</edge>
+<edge id="1271" source="ES" target="HR">
+<data key="weight">74.0</data>
+</edge>
+<edge id="1270" source="ES" target="FR">
+<data key="weight">1097.0</data>
+</edge>
+<edge id="2019" source="TR" target="ES">
+<data key="weight">31.0</data>
+</edge>
+<edge id="1989" source="RS" target="ES">
+<data key="weight">13.0</data>
+</edge>
+<edge id="1937" source="ME" target="ES">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1907" source="GB" target="ES">
+<data key="weight">286.0</data>
+</edge>
+<edge id="1876" source="CH" target="ES">
+<data key="weight">127.0</data>
+</edge>
+<edge id="1849" source="NO" target="ES">
+<data key="weight">114.0</data>
+</edge>
+<edge id="1833" source="LI" target="ES">
+<data key="weight">2.0</data>
+</edge>
+<edge id="1816" source="IS" target="ES">
+<data key="weight">7.0</data>
+</edge>
+<edge id="1790" source="SE" target="ES">
+<data key="weight">53.0</data>
+</edge>
+<edge id="1760" source="FI" target="ES">
+<data key="weight">58.0</data>
+</edge>
+<edge id="1731" source="SK" target="ES">
+<data key="weight">43.0</data>
+</edge>
+<edge id="1703" source="SI" target="ES">
+<data key="weight">7.0</data>
+</edge>
+<edge id="1674" source="RO" target="ES">
+<data key="weight">534.0</data>
+</edge>
+<edge id="1644" source="PT" target="ES">
+<data key="weight">169.0</data>
+</edge>
+<edge id="1613" source="PL" target="ES">
+<data key="weight">127.0</data>
+</edge>
+<edge id="1583" source="AT" target="ES">
+<data key="weight">73.0</data>
+</edge>
+<edge id="1554" source="NL" target="ES">
+<data key="weight">63.0</data>
+</edge>
+<edge id="1532" source="MT" target="ES">
+<data key="weight">3.0</data>
+</edge>
+<edge id="1504" source="HU" target="ES">
+<data key="weight">27.0</data>
+</edge>
+<edge id="1477" source="LU" target="ES">
+<data key="weight">51.0</data>
+</edge>
+<edge id="1449" source="LT" target="ES">
+<data key="weight">20.0</data>
+</edge>
+<edge id="1421" source="LV" target="ES">
+<data key="weight">5.0</data>
+</edge>
+<edge id="1394" source="CY" target="ES">
+<data key="weight">14.0</data>
+</edge>
+<edge id="1362" source="IT" target="ES">
+<data key="weight">1489.0</data>
+</edge>
+<edge id="1334" source="HR" target="ES">
+<data key="weight">8.0</data>
+</edge>
+<edge id="1302" source="FR" target="ES">
+<data key="weight">4852.0</data>
+</edge>
+<edge id="1326" source="FR" target="TR">
+<data key="weight">176.0</data>
+</edge>
+<edge id="1325" source="FR" target="RS">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1324" source="FR" target="MK">
+<data key="weight">65.0</data>
+</edge>
+<edge id="1323" source="FR" target="GB">
+<data key="weight">8411.0</data>
+</edge>
+<edge id="1322" source="FR" target="CH">
+<data key="weight">5872.0</data>
+</edge>
+<edge id="1321" source="FR" target="NO">
+<data key="weight">103.0</data>
+</edge>
+<edge id="1320" source="FR" target="LI">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1319" source="FR" target="IS">
+<data key="weight">39.0</data>
+</edge>
+<edge id="1318" source="FR" target="SE">
+<data key="weight">85.0</data>
+</edge>
+<edge id="1317" source="FR" target="FI">
+<data key="weight">136.0</data>
+</edge>
+<edge id="1316" source="FR" target="SK">
+<data key="weight">7.0</data>
+</edge>
+<edge id="1315" source="FR" target="RO">
+<data key="weight">130.0</data>
+</edge>
+<edge id="1314" source="FR" target="PT">
+<data key="weight">447.0</data>
+</edge>
+<edge id="1313" source="FR" target="PL">
+<data key="weight">138.0</data>
+</edge>
+<edge id="1312" source="FR" target="AT">
+<data key="weight">227.0</data>
+</edge>
+<edge id="1311" source="FR" target="NL">
+<data key="weight">1673.0</data>
+</edge>
+<edge id="1310" source="FR" target="MT">
+<data key="weight">9.0</data>
+</edge>
+<edge id="1309" source="FR" target="HU">
+<data key="weight">496.0</data>
+</edge>
+<edge id="1308" source="FR" target="LU">
+<data key="weight">275.0</data>
+</edge>
+<edge id="1307" source="FR" target="LT">
+<data key="weight">4.0</data>
+</edge>
+<edge id="1306" source="FR" target="LV">
+<data key="weight">56.0</data>
+</edge>
+<edge id="1305" source="FR" target="CY">
+<data key="weight">8.0</data>
+</edge>
+<edge id="1304" source="FR" target="IT">
+<data key="weight">790.0</data>
+</edge>
+<edge id="1303" source="FR" target="HR">
+<data key="weight">44.0</data>
+</edge>
+<edge id="2020" source="TR" target="FR">
+<data key="weight">775.0</data>
+</edge>
+<edge id="1990" source="RS" target="FR">
+<data key="weight">119.0</data>
+</edge>
+<edge id="1961" source="MK" target="FR">
+<data key="weight">61.0</data>
+</edge>
+<edge id="1938" source="ME" target="FR">
+<data key="weight">14.0</data>
+</edge>
+<edge id="1908" source="GB" target="FR">
+<data key="weight">287.0</data>
+</edge>
+<edge id="1877" source="CH" target="FR">
+<data key="weight">427.0</data>
+</edge>
+<edge id="1850" source="NO" target="FR">
+<data key="weight">67.0</data>
+</edge>
+<edge id="1834" source="LI" target="FR">
+<data key="weight">2.0</data>
+</edge>
+<edge id="1817" source="IS" target="FR">
+<data key="weight">5.0</data>
+</edge>
+<edge id="1791" source="SE" target="FR">
+<data key="weight">92.0</data>
+</edge>
+<edge id="1761" source="FI" target="FR">
+<data key="weight">65.0</data>
+</edge>
+<edge id="1732" source="SK" target="FR">
+<data key="weight">53.0</data>
+</edge>
+<edge id="1704" source="SI" target="FR">
+<data key="weight">19.0</data>
+</edge>
+<edge id="1675" source="RO" target="FR">
+<data key="weight">794.0</data>
+</edge>
+<edge id="1645" source="PT" target="FR">
+<data key="weight">426.0</data>
+</edge>
+<edge id="1614" source="PL" target="FR">
+<data key="weight">307.0</data>
+</edge>
+<edge id="1584" source="AT" target="FR">
+<data key="weight">103.0</data>
+</edge>
+<edge id="1555" source="NL" target="FR">
+<data key="weight">107.0</data>
+</edge>
+<edge id="1533" source="MT" target="FR">
+<data key="weight">3.0</data>
+</edge>
+<edge id="1505" source="HU" target="FR">
+<data key="weight">144.0</data>
+</edge>
+<edge id="1478" source="LU" target="FR">
+<data key="weight">608.0</data>
+</edge>
+<edge id="1450" source="LT" target="FR">
+<data key="weight">97.0</data>
+</edge>
+<edge id="1422" source="LV" target="FR">
+<data key="weight">39.0</data>
+</edge>
+<edge id="1395" source="CY" target="FR">
+<data key="weight">75.0</data>
+</edge>
+<edge id="1363" source="IT" target="FR">
+<data key="weight">1905.0</data>
+</edge>
+<edge id="1335" source="HR" target="FR">
+<data key="weight">30.0</data>
+</edge>
+<edge id="1353" source="HR" target="TR">
+<data key="weight">6.0</data>
+</edge>
+<edge id="1352" source="HR" target="RS">
+<data key="weight">320.0</data>
+</edge>
+<edge id="1351" source="HR" target="MK">
+<data key="weight">6.0</data>
+</edge>
+<edge id="1350" source="HR" target="GB">
+<data key="weight">639.0</data>
+</edge>
+<edge id="1349" source="HR" target="CH">
+<data key="weight">28.0</data>
+</edge>
+<edge id="1348" source="HR" target="NO">
+<data key="weight">9.0</data>
+</edge>
+<edge id="1347" source="HR" target="IS">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1346" source="HR" target="SE">
+<data key="weight">18.0</data>
+</edge>
+<edge id="1345" source="HR" target="FI">
+<data key="weight">7.0</data>
+</edge>
+<edge id="1344" source="HR" target="SK">
+<data key="weight">21.0</data>
+</edge>
+<edge id="1343" source="HR" target="RO">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1342" source="HR" target="PL">
+<data key="weight">11.0</data>
+</edge>
+<edge id="1341" source="HR" target="AT">
+<data key="weight">598.0</data>
+</edge>
+<edge id="1340" source="HR" target="NL">
+<data key="weight">195.0</data>
+</edge>
+<edge id="1339" source="HR" target="MT">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1338" source="HR" target="HU">
+<data key="weight">46.0</data>
+</edge>
+<edge id="1337" source="HR" target="LU">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1336" source="HR" target="IT">
+<data key="weight">474.0</data>
+</edge>
+<edge id="2021" source="TR" target="HR">
+<data key="weight">55.0</data>
+</edge>
+<edge id="1991" source="RS" target="HR">
+<data key="weight">55.0</data>
+</edge>
+<edge id="1962" source="MK" target="HR">
+<data key="weight">36.0</data>
+</edge>
+<edge id="1939" source="ME" target="HR">
+<data key="weight">30.0</data>
+</edge>
+<edge id="1909" source="GB" target="HR">
+<data key="weight">2.0</data>
+</edge>
+<edge id="1878" source="CH" target="HR">
+<data key="weight">12.0</data>
+</edge>
+<edge id="1792" source="SE" target="HR">
+<data key="weight">4.0</data>
+</edge>
+<edge id="1762" source="FI" target="HR">
+<data key="weight">10.0</data>
+</edge>
+<edge id="1733" source="SK" target="HR">
+<data key="weight">19.0</data>
+</edge>
+<edge id="1705" source="SI" target="HR">
+<data key="weight">98.0</data>
+</edge>
+<edge id="1676" source="RO" target="HR">
+<data key="weight">5.0</data>
+</edge>
+<edge id="1646" source="PT" target="HR">
+<data key="weight">50.0</data>
+</edge>
+<edge id="1615" source="PL" target="HR">
+<data key="weight">95.0</data>
+</edge>
+<edge id="1585" source="AT" target="HR">
+<data key="weight">12.0</data>
+</edge>
+<edge id="1556" source="NL" target="HR">
+<data key="weight">19.0</data>
+</edge>
+<edge id="1506" source="HU" target="HR">
+<data key="weight">14.0</data>
+</edge>
+<edge id="1479" source="LU" target="HR">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1451" source="LT" target="HR">
+<data key="weight">29.0</data>
+</edge>
+<edge id="1423" source="LV" target="HR">
+<data key="weight">8.0</data>
+</edge>
+<edge id="1364" source="IT" target="HR">
+<data key="weight">39.0</data>
+</edge>
+<edge id="1385" source="IT" target="TR">
+<data key="weight">37.0</data>
+</edge>
+<edge id="1384" source="IT" target="RS">
+<data key="weight">10.0</data>
+</edge>
+<edge id="1383" source="IT" target="MK">
+<data key="weight">2.0</data>
+</edge>
+<edge id="1382" source="IT" target="GB">
+<data key="weight">7682.0</data>
+</edge>
+<edge id="1381" source="IT" target="CH">
+<data key="weight">2169.0</data>
+</edge>
+<edge id="1380" source="IT" target="NO">
+<data key="weight">93.0</data>
+</edge>
+<edge id="1379" source="IT" target="IS">
+<data key="weight">13.0</data>
+</edge>
+<edge id="1378" source="IT" target="SE">
+<data key="weight">93.0</data>
+</edge>
+<edge id="1377" source="IT" target="FI">
+<data key="weight">88.0</data>
+</edge>
+<edge id="1376" source="IT" target="SK">
+<data key="weight">27.0</data>
+</edge>
+<edge id="1375" source="IT" target="RO">
+<data key="weight">439.0</data>
+</edge>
+<edge id="1374" source="IT" target="PT">
+<data key="weight">39.0</data>
+</edge>
+<edge id="1373" source="IT" target="PL">
+<data key="weight">97.0</data>
+</edge>
+<edge id="1372" source="IT" target="AT">
+<data key="weight">4938.0</data>
+</edge>
+<edge id="1371" source="IT" target="NL">
+<data key="weight">2188.0</data>
+</edge>
+<edge id="1370" source="IT" target="MT">
+<data key="weight">37.0</data>
+</edge>
+<edge id="1369" source="IT" target="HU">
+<data key="weight">578.0</data>
+</edge>
+<edge id="1368" source="IT" target="LU">
+<data key="weight">19.0</data>
+</edge>
+<edge id="1367" source="IT" target="LT">
+<data key="weight">19.0</data>
+</edge>
+<edge id="1366" source="IT" target="LV">
+<data key="weight">27.0</data>
+</edge>
+<edge id="1365" source="IT" target="CY">
+<data key="weight">3.0</data>
+</edge>
+<edge id="2022" source="TR" target="IT">
+<data key="weight">1062.0</data>
+</edge>
+<edge id="1992" source="RS" target="IT">
+<data key="weight">527.0</data>
+</edge>
+<edge id="1963" source="MK" target="IT">
+<data key="weight">332.0</data>
+</edge>
+<edge id="1940" source="ME" target="IT">
+<data key="weight">134.0</data>
+</edge>
+<edge id="1910" source="GB" target="IT">
+<data key="weight">247.0</data>
+</edge>
+<edge id="1879" source="CH" target="IT">
+<data key="weight">529.0</data>
+</edge>
+<edge id="1851" source="NO" target="IT">
+<data key="weight">69.0</data>
+</edge>
+<edge id="1818" source="IS" target="IT">
+<data key="weight">14.0</data>
+</edge>
+<edge id="1793" source="SE" target="IT">
+<data key="weight">59.0</data>
+</edge>
+<edge id="1763" source="FI" target="IT">
+<data key="weight">58.0</data>
+</edge>
+<edge id="1734" source="SK" target="IT">
+<data key="weight">78.0</data>
+</edge>
+<edge id="1706" source="SI" target="IT">
+<data key="weight">98.0</data>
+</edge>
+<edge id="1677" source="RO" target="IT">
+<data key="weight">7271.0</data>
+</edge>
+<edge id="1647" source="PT" target="IT">
+<data key="weight">109.0</data>
+</edge>
+<edge id="1616" source="PL" target="IT">
+<data key="weight">837.0</data>
+</edge>
+<edge id="1586" source="AT" target="IT">
+<data key="weight">112.0</data>
+</edge>
+<edge id="1557" source="NL" target="IT">
+<data key="weight">105.0</data>
+</edge>
+<edge id="1534" source="MT" target="IT">
+<data key="weight">19.0</data>
+</edge>
+<edge id="1507" source="HU" target="IT">
+<data key="weight">130.0</data>
+</edge>
+<edge id="1480" source="LU" target="IT">
+<data key="weight">14.0</data>
+</edge>
+<edge id="1452" source="LT" target="IT">
+<data key="weight">107.0</data>
+</edge>
+<edge id="1424" source="LV" target="IT">
+<data key="weight">63.0</data>
+</edge>
+<edge id="1396" source="CY" target="IT">
+<data key="weight">83.0</data>
+</edge>
+<edge id="1412" source="CY" target="TR">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1411" source="CY" target="RS">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1410" source="CY" target="GB">
+<data key="weight">7548.0</data>
+</edge>
+<edge id="1409" source="CY" target="CH">
+<data key="weight">21.0</data>
+</edge>
+<edge id="1408" source="CY" target="NO">
+<data key="weight">4.0</data>
+</edge>
+<edge id="1407" source="CY" target="IS">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1406" source="CY" target="SE">
+<data key="weight">11.0</data>
+</edge>
+<edge id="1405" source="CY" target="FI">
+<data key="weight">3.0</data>
+</edge>
+<edge id="1404" source="CY" target="SK">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1403" source="CY" target="RO">
+<data key="weight">19.0</data>
+</edge>
+<edge id="1402" source="CY" target="PL">
+<data key="weight">3.0</data>
+</edge>
+<edge id="1401" source="CY" target="AT">
+<data key="weight">21.0</data>
+</edge>
+<edge id="1400" source="CY" target="NL">
+<data key="weight">172.0</data>
+</edge>
+<edge id="1399" source="CY" target="MT">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1398" source="CY" target="HU">
+<data key="weight">28.0</data>
+</edge>
+<edge id="1397" source="CY" target="LT">
+<data key="weight">3.0</data>
+</edge>
+<edge id="2023" source="TR" target="CY">
+<data key="weight">2.0</data>
+</edge>
+<edge id="1993" source="RS" target="CY">
+<data key="weight">6.0</data>
+</edge>
+<edge id="1911" source="GB" target="CY">
+<data key="weight">16.0</data>
+</edge>
+<edge id="1852" source="NO" target="CY">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1794" source="SE" target="CY">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1764" source="FI" target="CY">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1735" source="SK" target="CY">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1678" source="RO" target="CY">
+<data key="weight">9.0</data>
+</edge>
+<edge id="1648" source="PT" target="CY">
+<data key="weight">3.0</data>
+</edge>
+<edge id="1617" source="PL" target="CY">
+<data key="weight">3.0</data>
+</edge>
+<edge id="1535" source="MT" target="CY">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1508" source="HU" target="CY">
+<data key="weight">2.0</data>
+</edge>
+<edge id="1453" source="LT" target="CY">
+<data key="weight">3.0</data>
+</edge>
+<edge id="1425" source="LV" target="CY">
+<data key="weight">2.0</data>
+</edge>
+<edge id="1440" source="LV" target="TR">
+<data key="weight">2.0</data>
+</edge>
+<edge id="1439" source="LV" target="GB">
+<data key="weight">1097.0</data>
+</edge>
+<edge id="1438" source="LV" target="CH">
+<data key="weight">18.0</data>
+</edge>
+<edge id="1437" source="LV" target="NO">
+<data key="weight">49.0</data>
+</edge>
+<edge id="1436" source="LV" target="IS">
+<data key="weight">8.0</data>
+</edge>
+<edge id="1435" source="LV" target="SE">
+<data key="weight">27.0</data>
+</edge>
+<edge id="1434" source="LV" target="FI">
+<data key="weight">58.0</data>
+</edge>
+<edge id="1433" source="LV" target="SK">
+<data key="weight">2.0</data>
+</edge>
+<edge id="1432" source="LV" target="PT">
+<data key="weight">2.0</data>
+</edge>
+<edge id="1431" source="LV" target="PL">
+<data key="weight">24.0</data>
+</edge>
+<edge id="1430" source="LV" target="AT">
+<data key="weight">37.0</data>
+</edge>
+<edge id="1429" source="LV" target="NL">
+<data key="weight">478.0</data>
+</edge>
+<edge id="1428" source="LV" target="MT">
+<data key="weight">7.0</data>
+</edge>
+<edge id="1427" source="LV" target="HU">
+<data key="weight">10.0</data>
+</edge>
+<edge id="1426" source="LV" target="LT">
+<data key="weight">47.0</data>
+</edge>
+<edge id="2024" source="TR" target="LV">
+<data key="weight">51.0</data>
+</edge>
+<edge id="1964" source="MK" target="LV">
+<data key="weight">3.0</data>
+</edge>
+<edge id="1912" source="GB" target="LV">
+<data key="weight">29.0</data>
+</edge>
+<edge id="1880" source="CH" target="LV">
+<data key="weight">3.0</data>
+</edge>
+<edge id="1853" source="NO" target="LV">
+<data key="weight">6.0</data>
+</edge>
+<edge id="1795" source="SE" target="LV">
+<data key="weight">11.0</data>
+</edge>
+<edge id="1765" source="FI" target="LV">
+<data key="weight">6.0</data>
+</edge>
+<edge id="1679" source="RO" target="LV">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1649" source="PT" target="LV">
+<data key="weight">3.0</data>
+</edge>
+<edge id="1618" source="PL" target="LV">
+<data key="weight">5.0</data>
+</edge>
+<edge id="1587" source="AT" target="LV">
+<data key="weight">8.0</data>
+</edge>
+<edge id="1558" source="NL" target="LV">
+<data key="weight">6.0</data>
+</edge>
+<edge id="1509" source="HU" target="LV">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1454" source="LT" target="LV">
+<data key="weight">104.0</data>
+</edge>
+<edge id="1470" source="LT" target="TR">
+<data key="weight">7.0</data>
+</edge>
+<edge id="1469" source="LT" target="RS">
+<data key="weight">4.0</data>
+</edge>
+<edge id="1468" source="LT" target="GB">
+<data key="weight">3687.0</data>
+</edge>
+<edge id="1467" source="LT" target="CH">
+<data key="weight">16.0</data>
+</edge>
+<edge id="1466" source="LT" target="NO">
+<data key="weight">78.0</data>
+</edge>
+<edge id="1465" source="LT" target="IS">
+<data key="weight">13.0</data>
+</edge>
+<edge id="1464" source="LT" target="SE">
+<data key="weight">55.0</data>
+</edge>
+<edge id="1463" source="LT" target="FI">
+<data key="weight">42.0</data>
+</edge>
+<edge id="1462" source="LT" target="SK">
+<data key="weight">3.0</data>
+</edge>
+<edge id="1461" source="LT" target="PT">
+<data key="weight">13.0</data>
+</edge>
+<edge id="1460" source="LT" target="PL">
+<data key="weight">390.0</data>
+</edge>
+<edge id="1459" source="LT" target="AT">
+<data key="weight">28.0</data>
+</edge>
+<edge id="1458" source="LT" target="NL">
+<data key="weight">785.0</data>
+</edge>
+<edge id="1457" source="LT" target="MT">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1456" source="LT" target="HU">
+<data key="weight">22.0</data>
+</edge>
+<edge id="1455" source="LT" target="LU">
+<data key="weight">1.0</data>
+</edge>
+<edge id="2025" source="TR" target="LT">
+<data key="weight">107.0</data>
+</edge>
+<edge id="1965" source="MK" target="LT">
+<data key="weight">4.0</data>
+</edge>
+<edge id="1913" source="GB" target="LT">
+<data key="weight">44.0</data>
+</edge>
+<edge id="1881" source="CH" target="LT">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1854" source="NO" target="LT">
+<data key="weight">15.0</data>
+</edge>
+<edge id="1819" source="IS" target="LT">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1796" source="SE" target="LT">
+<data key="weight">7.0</data>
+</edge>
+<edge id="1766" source="FI" target="LT">
+<data key="weight">6.0</data>
+</edge>
+<edge id="1680" source="RO" target="LT">
+<data key="weight">2.0</data>
+</edge>
+<edge id="1650" source="PT" target="LT">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1619" source="PL" target="LT">
+<data key="weight">37.0</data>
+</edge>
+<edge id="1559" source="NL" target="LT">
+<data key="weight">4.0</data>
+</edge>
+<edge id="1510" source="HU" target="LT">
+<data key="weight">5.0</data>
+</edge>
+<edge id="1481" source="LU" target="LT">
+<data key="weight">3.0</data>
+</edge>
+<edge id="1495" source="LU" target="GB">
+<data key="weight">834.0</data>
+</edge>
+<edge id="1494" source="LU" target="CH">
+<data key="weight">250.0</data>
+</edge>
+<edge id="1493" source="LU" target="NO">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1492" source="LU" target="LI">
+<data key="weight">2.0</data>
+</edge>
+<edge id="1491" source="LU" target="IS">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1490" source="LU" target="SE">
+<data key="weight">8.0</data>
+</edge>
+<edge id="1489" source="LU" target="FI">
+<data key="weight">6.0</data>
+</edge>
+<edge id="1488" source="LU" target="RO">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1487" source="LU" target="PT">
+<data key="weight">64.0</data>
+</edge>
+<edge id="1486" source="LU" target="PL">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1485" source="LU" target="AT">
+<data key="weight">702.0</data>
+</edge>
+<edge id="1484" source="LU" target="NL">
+<data key="weight">354.0</data>
+</edge>
+<edge id="1483" source="LU" target="MT">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1482" source="LU" target="HU">
+<data key="weight">8.0</data>
+</edge>
+<edge id="2026" source="TR" target="LU">
+<data key="weight">3.0</data>
+</edge>
+<edge id="1994" source="RS" target="LU">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1966" source="MK" target="LU">
+<data key="weight">3.0</data>
+</edge>
+<edge id="1914" source="GB" target="LU">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1855" source="NO" target="LU">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1797" source="SE" target="LU">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1767" source="FI" target="LU">
+<data key="weight">2.0</data>
+</edge>
+<edge id="1736" source="SK" target="LU">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1707" source="SI" target="LU">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1681" source="RO" target="LU">
+<data key="weight">6.0</data>
+</edge>
+<edge id="1651" source="PT" target="LU">
+<data key="weight">15.0</data>
+</edge>
+<edge id="1620" source="PL" target="LU">
+<data key="weight">2.0</data>
+</edge>
+<edge id="1588" source="AT" target="LU">
+<data key="weight">3.0</data>
+</edge>
+<edge id="1560" source="NL" target="LU">
+<data key="weight">2.0</data>
+</edge>
+<edge id="1511" source="HU" target="LU">
+<data key="weight">2.0</data>
+</edge>
+<edge id="1525" source="HU" target="TR">
+<data key="weight">11.0</data>
+</edge>
+<edge id="1524" source="HU" target="RS">
+<data key="weight">20.0</data>
+</edge>
+<edge id="1523" source="HU" target="GB">
+<data key="weight">1715.0</data>
+</edge>
+<edge id="1522" source="HU" target="CH">
+<data key="weight">87.0</data>
+</edge>
+<edge id="1521" source="HU" target="NO">
+<data key="weight">31.0</data>
+</edge>
+<edge id="1520" source="HU" target="IS">
+<data key="weight">8.0</data>
+</edge>
+<edge id="1519" source="HU" target="SE">
+<data key="weight">27.0</data>
+</edge>
+<edge id="1518" source="HU" target="FI">
+<data key="weight">69.0</data>
+</edge>
+<edge id="1517" source="HU" target="SK">
+<data key="weight">406.0</data>
+</edge>
+<edge id="1516" source="HU" target="RO">
+<data key="weight">404.0</data>
+</edge>
+<edge id="1515" source="HU" target="PL">
+<data key="weight">95.0</data>
+</edge>
+<edge id="1514" source="HU" target="AT">
+<data key="weight">1451.0</data>
+</edge>
+<edge id="1513" source="HU" target="NL">
+<data key="weight">556.0</data>
+</edge>
+<edge id="1512" source="HU" target="MT">
+<data key="weight">5.0</data>
+</edge>
+<edge id="2027" source="TR" target="HU">
+<data key="weight">751.0</data>
+</edge>
+<edge id="1995" source="RS" target="HU">
+<data key="weight">1293.0</data>
+</edge>
+<edge id="1967" source="MK" target="HU">
+<data key="weight">23.0</data>
+</edge>
+<edge id="1941" source="ME" target="HU">
+<data key="weight">4.0</data>
+</edge>
+<edge id="1915" source="GB" target="HU">
+<data key="weight">75.0</data>
+</edge>
+<edge id="1882" source="CH" target="HU">
+<data key="weight">28.0</data>
+</edge>
+<edge id="1856" source="NO" target="HU">
+<data key="weight">129.0</data>
+</edge>
+<edge id="1820" source="IS" target="HU">
+<data key="weight">8.0</data>
+</edge>
+<edge id="1798" source="SE" target="HU">
+<data key="weight">65.0</data>
+</edge>
+<edge id="1768" source="FI" target="HU">
+<data key="weight">68.0</data>
+</edge>
+<edge id="1737" source="SK" target="HU">
+<data key="weight">1103.0</data>
+</edge>
+<edge id="1708" source="SI" target="HU">
+<data key="weight">25.0</data>
+</edge>
+<edge id="1682" source="RO" target="HU">
+<data key="weight">1417.0</data>
+</edge>
+<edge id="1652" source="PT" target="HU">
+<data key="weight">195.0</data>
+</edge>
+<edge id="1621" source="PL" target="HU">
+<data key="weight">162.0</data>
+</edge>
+<edge id="1589" source="AT" target="HU">
+<data key="weight">43.0</data>
+</edge>
+<edge id="1561" source="NL" target="HU">
+<data key="weight">171.0</data>
+</edge>
+<edge id="1536" source="MT" target="HU">
+<data key="weight">6.0</data>
+</edge>
+<edge id="1545" source="MT" target="GB">
+<data key="weight">184.0</data>
+</edge>
+<edge id="1544" source="MT" target="CH">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1543" source="MT" target="NO">
+<data key="weight">3.0</data>
+</edge>
+<edge id="1542" source="MT" target="SE">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1541" source="MT" target="FI">
+<data key="weight">17.0</data>
+</edge>
+<edge id="1540" source="MT" target="SK">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1539" source="MT" target="PL">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1538" source="MT" target="AT">
+<data key="weight">3.0</data>
+</edge>
+<edge id="1537" source="MT" target="NL">
+<data key="weight">16.0</data>
+</edge>
+<edge id="1996" source="RS" target="MT">
+<data key="weight">7.0</data>
+</edge>
+<edge id="1968" source="MK" target="MT">
+<data key="weight">2.0</data>
+</edge>
+<edge id="1916" source="GB" target="MT">
+<data key="weight">57.0</data>
+</edge>
+<edge id="1883" source="CH" target="MT">
+<data key="weight">4.0</data>
+</edge>
+<edge id="1769" source="FI" target="MT">
+<data key="weight">5.0</data>
+</edge>
+<edge id="1738" source="SK" target="MT">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1683" source="RO" target="MT">
+<data key="weight">5.0</data>
+</edge>
+<edge id="1653" source="PT" target="MT">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1622" source="PL" target="MT">
+<data key="weight">14.0</data>
+</edge>
+<edge id="1562" source="NL" target="MT">
+<data key="weight">5.0</data>
+</edge>
+<edge id="1574" source="NL" target="TR">
+<data key="weight">381.0</data>
+</edge>
+<edge id="1573" source="NL" target="RS">
+<data key="weight">5.0</data>
+</edge>
+<edge id="1572" source="NL" target="GB">
+<data key="weight">1574.0</data>
+</edge>
+<edge id="1571" source="NL" target="CH">
+<data key="weight">77.0</data>
+</edge>
+<edge id="1570" source="NL" target="NO">
+<data key="weight">110.0</data>
+</edge>
+<edge id="1569" source="NL" target="IS">
+<data key="weight">6.0</data>
+</edge>
+<edge id="1568" source="NL" target="SE">
+<data key="weight">60.0</data>
+</edge>
+<edge id="1567" source="NL" target="FI">
+<data key="weight">41.0</data>
+</edge>
+<edge id="1566" source="NL" target="SK">
+<data key="weight">2.0</data>
+</edge>
+<edge id="1565" source="NL" target="PT">
+<data key="weight">35.0</data>
+</edge>
+<edge id="1564" source="NL" target="PL">
+<data key="weight">24.0</data>
+</edge>
+<edge id="1563" source="NL" target="AT">
+<data key="weight">62.0</data>
+</edge>
+<edge id="2028" source="TR" target="NL">
+<data key="weight">306.0</data>
+</edge>
+<edge id="1997" source="RS" target="NL">
+<data key="weight">71.0</data>
+</edge>
+<edge id="1969" source="MK" target="NL">
+<data key="weight">51.0</data>
+</edge>
+<edge id="1942" source="ME" target="NL">
+<data key="weight">8.0</data>
+</edge>
+<edge id="1917" source="GB" target="NL">
+<data key="weight">1822.0</data>
+</edge>
+<edge id="1884" source="CH" target="NL">
+<data key="weight">250.0</data>
+</edge>
+<edge id="1857" source="NO" target="NL">
+<data key="weight">396.0</data>
+</edge>
+<edge id="1835" source="LI" target="NL">
+<data key="weight">2.0</data>
+</edge>
+<edge id="1821" source="IS" target="NL">
+<data key="weight">65.0</data>
+</edge>
+<edge id="1799" source="SE" target="NL">
+<data key="weight">367.0</data>
+</edge>
+<edge id="1770" source="FI" target="NL">
+<data key="weight">628.0</data>
+</edge>
+<edge id="1739" source="SK" target="NL">
+<data key="weight">345.0</data>
+</edge>
+<edge id="1709" source="SI" target="NL">
+<data key="weight">134.0</data>
+</edge>
+<edge id="1684" source="RO" target="NL">
+<data key="weight">1795.0</data>
+</edge>
+<edge id="1654" source="PT" target="NL">
+<data key="weight">479.0</data>
+</edge>
+<edge id="1623" source="PL" target="NL">
+<data key="weight">855.0</data>
+</edge>
+<edge id="1590" source="AT" target="NL">
+<data key="weight">409.0</data>
+</edge>
+<edge id="1604" source="AT" target="TR">
+<data key="weight">290.0</data>
+</edge>
+<edge id="1603" source="AT" target="RS">
+<data key="weight">10.0</data>
+</edge>
+<edge id="1602" source="AT" target="MK">
+<data key="weight">4.0</data>
+</edge>
+<edge id="1601" source="AT" target="GB">
+<data key="weight">1065.0</data>
+</edge>
+<edge id="1600" source="AT" target="CH">
+<data key="weight">679.0</data>
+</edge>
+<edge id="1599" source="AT" target="NO">
+<data key="weight">29.0</data>
+</edge>
+<edge id="1598" source="AT" target="LI">
+<data key="weight">204.0</data>
+</edge>
+<edge id="1597" source="AT" target="IS">
+<data key="weight">3.0</data>
+</edge>
+<edge id="1596" source="AT" target="SE">
+<data key="weight">37.0</data>
+</edge>
+<edge id="1595" source="AT" target="FI">
+<data key="weight">23.0</data>
+</edge>
+<edge id="1594" source="AT" target="SK">
+<data key="weight">9.0</data>
+</edge>
+<edge id="1593" source="AT" target="RO">
+<data key="weight">12.0</data>
+</edge>
+<edge id="1592" source="AT" target="PT">
+<data key="weight">6.0</data>
+</edge>
+<edge id="1591" source="AT" target="PL">
+<data key="weight">16.0</data>
+</edge>
+<edge id="2029" source="TR" target="AT">
+<data key="weight">1449.0</data>
+</edge>
+<edge id="1998" source="RS" target="AT">
+<data key="weight">1150.0</data>
+</edge>
+<edge id="1970" source="MK" target="AT">
+<data key="weight">130.0</data>
+</edge>
+<edge id="1943" source="ME" target="AT">
+<data key="weight">87.0</data>
+</edge>
+<edge id="1918" source="GB" target="AT">
+<data key="weight">188.0</data>
+</edge>
+<edge id="1885" source="CH" target="AT">
+<data key="weight">493.0</data>
+</edge>
+<edge id="1858" source="NO" target="AT">
+<data key="weight">18.0</data>
+</edge>
+<edge id="1836" source="LI" target="AT">
+<data key="weight">78.0</data>
+</edge>
+<edge id="1822" source="IS" target="AT">
+<data key="weight">7.0</data>
+</edge>
+<edge id="1800" source="SE" target="AT">
+<data key="weight">44.0</data>
+</edge>
+<edge id="1771" source="FI" target="AT">
+<data key="weight">57.0</data>
+</edge>
+<edge id="1740" source="SK" target="AT">
+<data key="weight">503.0</data>
+</edge>
+<edge id="1710" source="SI" target="AT">
+<data key="weight">334.0</data>
+</edge>
+<edge id="1685" source="RO" target="AT">
+<data key="weight">640.0</data>
+</edge>
+<edge id="1655" source="PT" target="AT">
+<data key="weight">20.0</data>
+</edge>
+<edge id="1624" source="PL" target="AT">
+<data key="weight">370.0</data>
+</edge>
+<edge id="1636" source="PL" target="TR">
+<data key="weight">27.0</data>
+</edge>
+<edge id="1635" source="PL" target="RS">
+<data key="weight">4.0</data>
+</edge>
+<edge id="1634" source="PL" target="GB">
+<data key="weight">5987.0</data>
+</edge>
+<edge id="1633" source="PL" target="CH">
+<data key="weight">121.0</data>
+</edge>
+<edge id="1632" source="PL" target="NO">
+<data key="weight">120.0</data>
+</edge>
+<edge id="1631" source="PL" target="LI">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1630" source="PL" target="IS">
+<data key="weight">34.0</data>
+</edge>
+<edge id="1629" source="PL" target="SE">
+<data key="weight">56.0</data>
+</edge>
+<edge id="1628" source="PL" target="FI">
+<data key="weight">47.0</data>
+</edge>
+<edge id="1627" source="PL" target="SK">
+<data key="weight">18.0</data>
+</edge>
+<edge id="1626" source="PL" target="RO">
+<data key="weight">2.0</data>
+</edge>
+<edge id="1625" source="PL" target="PT">
+<data key="weight">14.0</data>
+</edge>
+<edge id="2030" source="TR" target="PL">
+<data key="weight">609.0</data>
+</edge>
+<edge id="1999" source="RS" target="PL">
+<data key="weight">8.0</data>
+</edge>
+<edge id="1971" source="MK" target="PL">
+<data key="weight">6.0</data>
+</edge>
+<edge id="1944" source="ME" target="PL">
+<data key="weight">4.0</data>
+</edge>
+<edge id="1919" source="GB" target="PL">
+<data key="weight">223.0</data>
+</edge>
+<edge id="1886" source="CH" target="PL">
+<data key="weight">12.0</data>
+</edge>
+<edge id="1859" source="NO" target="PL">
+<data key="weight">1070.0</data>
+</edge>
+<edge id="1823" source="IS" target="PL">
+<data key="weight">5.0</data>
+</edge>
+<edge id="1801" source="SE" target="PL">
+<data key="weight">847.0</data>
+</edge>
+<edge id="1772" source="FI" target="PL">
+<data key="weight">42.0</data>
+</edge>
+<edge id="1741" source="SK" target="PL">
+<data key="weight">450.0</data>
+</edge>
+<edge id="1711" source="SI" target="PL">
+<data key="weight">3.0</data>
+</edge>
+<edge id="1686" source="RO" target="PL">
+<data key="weight">33.0</data>
+</edge>
+<edge id="1656" source="PT" target="PL">
+<data key="weight">43.0</data>
+</edge>
+<edge id="1665" source="PT" target="TR">
+<data key="weight">3.0</data>
+</edge>
+<edge id="1664" source="PT" target="GB">
+<data key="weight">3384.0</data>
+</edge>
+<edge id="1663" source="PT" target="CH">
+<data key="weight">96.0</data>
+</edge>
+<edge id="1662" source="PT" target="NO">
+<data key="weight">22.0</data>
+</edge>
+<edge id="1661" source="PT" target="IS">
+<data key="weight">4.0</data>
+</edge>
+<edge id="1660" source="PT" target="SE">
+<data key="weight">20.0</data>
+</edge>
+<edge id="1659" source="PT" target="FI">
+<data key="weight">18.0</data>
+</edge>
+<edge id="1658" source="PT" target="SK">
+<data key="weight">4.0</data>
+</edge>
+<edge id="1657" source="PT" target="RO">
+<data key="weight">22.0</data>
+</edge>
+<edge id="2031" source="TR" target="PT">
+<data key="weight">8.0</data>
+</edge>
+<edge id="2000" source="RS" target="PT">
+<data key="weight">2.0</data>
+</edge>
+<edge id="1920" source="GB" target="PT">
+<data key="weight">29.0</data>
+</edge>
+<edge id="1887" source="CH" target="PT">
+<data key="weight">30.0</data>
+</edge>
+<edge id="1860" source="NO" target="PT">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1824" source="IS" target="PT">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1802" source="SE" target="PT">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1773" source="FI" target="PT">
+<data key="weight">3.0</data>
+</edge>
+<edge id="1742" source="SK" target="PT">
+<data key="weight">3.0</data>
+</edge>
+<edge id="1712" source="SI" target="PT">
+<data key="weight">2.0</data>
+</edge>
+<edge id="1687" source="RO" target="PT">
+<data key="weight">28.0</data>
+</edge>
+<edge id="1696" source="RO" target="TR">
+<data key="weight">90.0</data>
+</edge>
+<edge id="1695" source="RO" target="RS">
+<data key="weight">11.0</data>
+</edge>
+<edge id="1694" source="RO" target="GB">
+<data key="weight">7289.0</data>
+</edge>
+<edge id="1693" source="RO" target="CH">
+<data key="weight">121.0</data>
+</edge>
+<edge id="1692" source="RO" target="NO">
+<data key="weight">57.0</data>
+</edge>
+<edge id="1691" source="RO" target="IS">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1690" source="RO" target="SE">
+<data key="weight">65.0</data>
+</edge>
+<edge id="1689" source="RO" target="FI">
+<data key="weight">46.0</data>
+</edge>
+<edge id="1688" source="RO" target="SK">
+<data key="weight">25.0</data>
+</edge>
+<edge id="2032" source="TR" target="RO">
+<data key="weight">131.0</data>
+</edge>
+<edge id="2001" source="RS" target="RO">
+<data key="weight">428.0</data>
+</edge>
+<edge id="1972" source="MK" target="RO">
+<data key="weight">37.0</data>
+</edge>
+<edge id="1921" source="GB" target="RO">
+<data key="weight">22.0</data>
+</edge>
+<edge id="1888" source="CH" target="RO">
+<data key="weight">10.0</data>
+</edge>
+<edge id="1861" source="NO" target="RO">
+<data key="weight">5.0</data>
+</edge>
+<edge id="1803" source="SE" target="RO">
+<data key="weight">9.0</data>
+</edge>
+<edge id="1743" source="SK" target="RO">
+<data key="weight">3.0</data>
+</edge>
+<edge id="1751" source="SK" target="TR">
+<data key="weight">4.0</data>
+</edge>
+<edge id="1750" source="SK" target="RS">
+<data key="weight">4.0</data>
+</edge>
+<edge id="1749" source="SK" target="GB">
+<data key="weight">1353.0</data>
+</edge>
+<edge id="1748" source="SK" target="CH">
+<data key="weight">31.0</data>
+</edge>
+<edge id="1747" source="SK" target="NO">
+<data key="weight">18.0</data>
+</edge>
+<edge id="1746" source="SK" target="IS">
+<data key="weight">4.0</data>
+</edge>
+<edge id="1745" source="SK" target="SE">
+<data key="weight">13.0</data>
+</edge>
+<edge id="1744" source="SK" target="FI">
+<data key="weight">14.0</data>
+</edge>
+<edge id="2033" source="TR" target="SK">
+<data key="weight">24.0</data>
+</edge>
+<edge id="2002" source="RS" target="SK">
+<data key="weight">571.0</data>
+</edge>
+<edge id="1973" source="MK" target="SK">
+<data key="weight">14.0</data>
+</edge>
+<edge id="1945" source="ME" target="SK">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1922" source="GB" target="SK">
+<data key="weight">2.0</data>
+</edge>
+<edge id="1889" source="CH" target="SK">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1862" source="NO" target="SK">
+<data key="weight">23.0</data>
+</edge>
+<edge id="1804" source="SE" target="SK">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1774" source="FI" target="SK">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1713" source="SI" target="SK">
+<data key="weight">3.0</data>
+</edge>
+<edge id="1781" source="FI" target="TR">
+<data key="weight">11.0</data>
+</edge>
+<edge id="1780" source="FI" target="RS">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1779" source="FI" target="GB">
+<data key="weight">1576.0</data>
+</edge>
+<edge id="1778" source="FI" target="CH">
+<data key="weight">29.0</data>
+</edge>
+<edge id="1777" source="FI" target="NO">
+<data key="weight">92.0</data>
+</edge>
+<edge id="1776" source="FI" target="IS">
+<data key="weight">7.0</data>
+</edge>
+<edge id="1775" source="FI" target="SE">
+<data key="weight">1156.0</data>
+</edge>
+<edge id="2034" source="TR" target="FI">
+<data key="weight">33.0</data>
+</edge>
+<edge id="2003" source="RS" target="FI">
+<data key="weight">11.0</data>
+</edge>
+<edge id="1974" source="MK" target="FI">
+<data key="weight">2.0</data>
+</edge>
+<edge id="1923" source="GB" target="FI">
+<data key="weight">112.0</data>
+</edge>
+<edge id="1890" source="CH" target="FI">
+<data key="weight">18.0</data>
+</edge>
+<edge id="1863" source="NO" target="FI">
+<data key="weight">15.0</data>
+</edge>
+<edge id="1825" source="IS" target="FI">
+<data key="weight">9.0</data>
+</edge>
+<edge id="1805" source="SE" target="FI">
+<data key="weight">229.0</data>
+</edge>
+<edge id="1714" source="SI" target="FI">
+<data key="weight">13.0</data>
+</edge>
+<edge id="1812" source="SE" target="TR">
+<data key="weight">40.0</data>
+</edge>
+<edge id="1811" source="SE" target="RS">
+<data key="weight">4.0</data>
+</edge>
+<edge id="1810" source="SE" target="MK">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1809" source="SE" target="GB">
+<data key="weight">1951.0</data>
+</edge>
+<edge id="1808" source="SE" target="CH">
+<data key="weight">50.0</data>
+</edge>
+<edge id="1807" source="SE" target="NO">
+<data key="weight">627.0</data>
+</edge>
+<edge id="1806" source="SE" target="IS">
+<data key="weight">30.0</data>
+</edge>
+<edge id="2035" source="TR" target="SE">
+<data key="weight">21.0</data>
+</edge>
+<edge id="2004" source="RS" target="SE">
+<data key="weight">4.0</data>
+</edge>
+<edge id="1975" source="MK" target="SE">
+<data key="weight">2.0</data>
+</edge>
+<edge id="1946" source="ME" target="SE">
+<data key="weight">2.0</data>
+</edge>
+<edge id="1924" source="GB" target="SE">
+<data key="weight">87.0</data>
+</edge>
+<edge id="1891" source="CH" target="SE">
+<data key="weight">33.0</data>
+</edge>
+<edge id="1864" source="NO" target="SE">
+<data key="weight">166.0</data>
+</edge>
+<edge id="1826" source="IS" target="SE">
+<data key="weight">37.0</data>
+</edge>
+<edge id="1715" source="SI" target="SE">
+<data key="weight">8.0</data>
+</edge>
+<edge id="1829" source="IS" target="GB">
+<data key="weight">100.0</data>
+</edge>
+<edge id="1828" source="IS" target="CH">
+<data key="weight">5.0</data>
+</edge>
+<edge id="1827" source="IS" target="NO">
+<data key="weight">104.0</data>
+</edge>
+<edge id="2036" source="TR" target="IS">
+<data key="weight">3.0</data>
+</edge>
+<edge id="2005" source="RS" target="IS">
+<data key="weight">8.0</data>
+</edge>
+<edge id="1976" source="MK" target="IS">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1947" source="ME" target="IS">
+<data key="weight">2.0</data>
+</edge>
+<edge id="1925" source="GB" target="IS">
+<data key="weight">32.0</data>
+</edge>
+<edge id="1892" source="CH" target="IS">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1865" source="NO" target="IS">
+<data key="weight">25.0</data>
+</edge>
+<edge id="1716" source="SI" target="IS">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1868" source="NO" target="TR">
+<data key="weight">24.0</data>
+</edge>
+<edge id="1867" source="NO" target="GB">
+<data key="weight">3136.0</data>
+</edge>
+<edge id="1866" source="NO" target="CH">
+<data key="weight">38.0</data>
+</edge>
+<edge id="2037" source="TR" target="NO">
+<data key="weight">26.0</data>
+</edge>
+<edge id="2006" source="RS" target="NO">
+<data key="weight">48.0</data>
+</edge>
+<edge id="1977" source="MK" target="NO">
+<data key="weight">5.0</data>
+</edge>
+<edge id="1948" source="ME" target="NO">
+<data key="weight">4.0</data>
+</edge>
+<edge id="1926" source="GB" target="NO">
+<data key="weight">82.0</data>
+</edge>
+<edge id="1894" source="CH" target="NO">
+<data key="weight">30.0</data>
+</edge>
+<edge id="1837" source="LI" target="NO">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1717" source="SI" target="NO">
+<data key="weight">8.0</data>
+</edge>
+<edge id="1898" source="CH" target="TR">
+<data key="weight">126.0</data>
+</edge>
+<edge id="1897" source="CH" target="RS">
+<data key="weight">8.0</data>
+</edge>
+<edge id="1896" source="CH" target="MK">
+<data key="weight">2.0</data>
+</edge>
+<edge id="1895" source="CH" target="GB">
+<data key="weight">2328.0</data>
+</edge>
+<edge id="1893" source="CH" target="LI">
+<data key="weight">75.0</data>
+</edge>
+<edge id="2038" source="TR" target="CH">
+<data key="weight">205.0</data>
+</edge>
+<edge id="2007" source="RS" target="CH">
+<data key="weight">103.0</data>
+</edge>
+<edge id="1978" source="MK" target="CH">
+<data key="weight">37.0</data>
+</edge>
+<edge id="1949" source="ME" target="CH">
+<data key="weight">6.0</data>
+</edge>
+<edge id="1927" source="GB" target="CH">
+<data key="weight">176.0</data>
+</edge>
+<edge id="1838" source="LI" target="CH">
+<data key="weight">551.0</data>
+</edge>
+<edge id="1718" source="SI" target="CH">
+<data key="weight">11.0</data>
+</edge>
+<edge id="1930" source="GB" target="TR">
+<data key="weight">113.0</data>
+</edge>
+<edge id="1929" source="GB" target="RS">
+<data key="weight">4.0</data>
+</edge>
+<edge id="1928" source="GB" target="MK">
+<data key="weight">1.0</data>
+</edge>
+<edge id="2039" source="TR" target="GB">
+<data key="weight">1114.0</data>
+</edge>
+<edge id="2008" source="RS" target="GB">
+<data key="weight">159.0</data>
+</edge>
+<edge id="1979" source="MK" target="GB">
+<data key="weight">60.0</data>
+</edge>
+<edge id="1950" source="ME" target="GB">
+<data key="weight">29.0</data>
+</edge>
+<edge id="1839" source="LI" target="GB">
+<data key="weight">11.0</data>
+</edge>
+<edge id="1719" source="SI" target="GB">
+<data key="weight">229.0</data>
+</edge>
+<edge id="2010" source="RS" target="TR">
+<data key="weight">479.0</data>
+</edge>
+<edge id="2009" source="RS" target="MK">
+<data key="weight">267.0</data>
+</edge>
+<edge id="2041" source="TR" target="RS">
+<data key="weight">11.0</data>
+</edge>
+<edge id="1980" source="MK" target="RS">
+<data key="weight">69.0</data>
+</edge>
+<edge id="1952" source="ME" target="RS">
+<data key="weight">2158.0</data>
+</edge>
+<edge id="1721" source="SI" target="RS">
+<data key="weight">50.0</data>
+</edge>
+<edge id="2040" source="TR" target="MK">
+<data key="weight">1304.0</data>
+</edge>
+<edge id="1981" source="MK" target="TR">
+<data key="weight">553.0</data>
+</edge>
+<edge id="1953" source="ME" target="TR">
+<data key="weight">170.0</data>
+</edge>
+<edge id="1840" source="LI" target="TR">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1722" source="SI" target="TR">
+<data key="weight">1.0</data>
+</edge>
+<edge id="1951" source="ME" target="MK">
+<data key="weight">32.0</data>
+</edge>
+<edge id="1720" source="SI" target="MK">
+<data key="weight">2.0</data>
+</edge>
+</graph>
+</graphml>

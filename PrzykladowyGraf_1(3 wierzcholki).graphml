@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+    <!-- Klucze dla wierzchołków -->
+    <key id="x" for="node" attr.name="x" attr.type="float" />
+    <key id="y" for="node" attr.name="y" attr.type="float" />
+    <key id="label" for="node" attr.name="label" attr.type="string" />
+    
+    <!-- Klucze dla krawędzi -->
+    <key id="label" for="edge" attr.name="label" attr.type="string" />
+
+    <graph id="G" edgedefault="undirected">
+        <!-- Wierzchołki -->
+        <node id="n0">
+            <data key="x">100.0</data>
+            <data key="y">100.0</data>
+            <data key="label">A</data>
+        </node>
+        <node id="n1">
+            <data key="x">300.0</data>
+            <data key="y">100.0</data>
+            <data key="label">B</data>
+        </node>
+        <node id="n2">
+            <data key="x">200.0</data>
+            <data key="y">300.0</data>
+            <data key="label">C</data>
+        </node>
+
+        <!-- Krawędzie -->
+        <edge id="e0" source="n0" target="n1">
+            <data key="label">Edge 1</data>
+        </edge>
+        <edge id="e1" source="n1" target="n2">
+            <data key="label">Edge 2</data>
+        </edge>
+    </graph>
+</graphml>

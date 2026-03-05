@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+    <!-- Klucze dla wierzchołków -->
+    <key id="x" for="node" attr.name="x" attr.type="float" />
+    <key id="y" for="node" attr.name="y" attr.type="float" />
+    <key id="label" for="node" attr.name="label" attr.type="string" />
+    
+    <!-- Klucze dla krawędzi -->
+    <key id="label" for="edge" attr.name="label" attr.type="string" />
+
+    <graph id="G" edgedefault="undirected">
+        <!-- Wierzchołki -->
+        <node id="n0"><data key="x">100.0</data><data key="y">100.0</data><data key="label">A</data></node>
+        <node id="n1"><data key="x">200.0</data><data key="y">100.0</data><data key="label">B</data></node>
+        <node id="n2"><data key="x">300.0</data><data key="y">100.0</data><data key="label">C</data></node>
+        <node id="n3"><data key="x">400.0</data><data key="y">100.0</data><data key="label">D</data></node>
+        <node id="n4"><data key="x">500.0</data><data key="y">100.0</data><data key="label">E</data></node>
+        <node id="n5"><data key="x">600.0</data><data key="y">100.0</data><data key="label">F</data></node>
+        <node id="n6"><data key="x">700.0</data><data key="y">100.0</data><data key="label">G</data></node>
+        <node id="n7"><data key="x">100.0</data><data key="y">200.0</data><data key="label">H</data></node>
+        <node id="n8"><data key="x">200.0</data><data key="y">200.0</data><data key="label">I</data></node>
+        <node id="n9"><data key="x">300.0</data><data key="y">200.0</data><data key="label">J</data></node>
+        <node id="n10"><data key="x">400.0</data><data key="y">200.0</data><data key="label">K</data></node>
+        <node id="n11"><data key="x">500.0</data><data key="y">200.0</data><data key="label">L</data></node>
+        <node id="n12"><data key="x">600.0</data><data key="y">200.0</data><data key="label">M</data></node>
+        <node id="n13"><data key="x">700.0</data><data key="y">200.0</data><data key="label">N</data></node>
+        <node id="n14"><data key="x">100.0</data><data key="y">300.0</data><data key="label">O</data></node>
+        <node id="n15"><data key="x">200.0</data><data key="y">300.0</data><data key="label">P</data></node>
+        <node id="n16"><data key="x">300.0</data><data key="y">300.0</data><data key="label">Q</data></node>
+        <node id="n17"><data key="x">400.0</data><data key="y">300.0</data><data key="label">R</data></node>
+        <node id="n18"><data key="x">500.0</data><data key="y">300.0</data><data key="label">S</data></node>
+        <node id="n19"><data key="x">600.0</data><data key="y">300.0</data><data key="label">T</data></node>
+        <node id="n20"><data key="x">700.0</data><data key="y">300.0</data><data key="label">U</data></node>
+        <node id="n21"><data key="x">100.0</data><data key="y">400.0</data><data key="label">V</data></node>
+        <node id="n22"><data key="x">200.0</data><data key="y">400.0</data><data key="label">W</data></node>
+        <node id="n23"><data key="x">300.0</data><data key="y">400.0</data><data key="label">X</data></node>
+        <node id="n24"><data key="x">400.0</data><data key="y">400.0</data><data key="label">Y</data></node>
+        <node id="n25"><data key="x">500.0</data><data key="y">400.0</data><data key="label">Z</data></node>
+        <node id="n26"><data key="x">600.0</data><data key="y">400.0</data><data key="label">AA</data></node>
+        <node id="n27"><data key="x">700.0</data><data key="y">400.0</data><data key="label">BB</data></node>
+        <node id="n28"><data key="x">100.0</data><data key="y">500.0</data><data key="label">CC</data></node>
+        <node id="n29"><data key="x">200.0</data><data key="y">500.0</data><data key="label">DD</data></node>
+        <node id="n30"><data key="x">300.0</data><data key="y">500.0</data><data key="label">EE</data></node>
+        <node id="n31"><data key="x">400.0</data><data key="y">500.0</data><data key="label">FF</data></node>
+        <node id="n32"><data key="x">500.0</data><data key="y">500.0</data><data key="label">GG</data></node>
+        <node id="n33"><data key="x">600.0</data><data key="y">500.0</data><data key="label">HH</data></node>
+        <node id="n34"><data key="x">700.0</data><data key="y">500.0</data><data key="label">II</data></node>
+
+        <!-- Krawędzie -->
+        <edge id="e0" source="n0" target="n1"><data key="label">Edge 1</data></edge>
+        <edge id="e1" source="n1" target="n2"><data key="label">Edge 2</data></edge>
+        <edge id="e2" source="n3" target="n7"><data key="label">Edge 3</data></edge>
+        <edge id="e3" source="n5" target="n12"><data key="label">Edge 4</data></edge>
+        <edge id="e4" source="n6" target="n19"><data key="label">Edge 5</data></edge>
+        <edge id="e5" source="n4" target="n15"><data key="label">Edge 6</data></edge>
+        <edge id="e6" source="n2" target="n10"><data key="label">Edge 7</data></edge>
+        <edge id="e7" source="n7" target="n22"><data key="label">Edge 8</data></edge>
+        <edge id="e8" source="n13" target="n20"><data key="label">Edge 9</data></edge>
+        <edge id="e9" source="n16" target="n30"><data key="label">Edge 10</data></edge>
+        <edge id="e10" source="n9" target="n18"><data key="label">Edge 11</data></edge>
+        <edge id="e11" source="n12" target="n23"><data key="label">Edge 12</data></edge>
+        <edge id="e12" source="n24" target="n33"><data key="label">Edge 13</data></edge>
+        <edge id="e13" source="n27" target="n32"><data key="label">Edge 14</data></edge>
+        <edge id="e14" source="n29" target="n5"><data key="label">Edge 15</data></edge>
+    </graph>
+</graphml>
